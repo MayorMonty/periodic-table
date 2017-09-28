@@ -1,0 +1,55 @@
+- name: Hydrogen
+  symbol: H
+  number: 1
+  atomic: 1.008
+  period: 1
+  group: 1
+
+- name: Helium
+  symbol: He
+  number: 2
+  atomic: 4.0026
+  period: 1
+  group: 18
+
+- name: Lithium
+  symbol: Li
+  number: 3
+  atomic: 6.94
+  period: 2
+  group: 1
+
+- name: Beryllium
+  symbol: Be
+  number: 4
+  atomic: 9.0122
+  period: 2
+  group: 2
+
+- name: Boron
+  symbol: B
+  number: 5
+  atomic: 10.81
+  period: 2
+  group: 13
+
+- name: Carbon
+  symbol: C
+  number: 6
+  atomic: 10.81
+  period: 2
+  group: 14
+
+- name: Nitrogen
+  symbol: N
+  number: 7
+  atomic: 14.007
+  period: 2
+  group: 15
+
+- name: Oxygen
+  symbol: O
+  number: 8
+  atomic: 15.999
+  period: 2
+  group: 16
