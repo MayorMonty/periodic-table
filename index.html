@@ -5,10 +5,10 @@ layout: default
 <div class="periodic-table">
   {% for element in site.data.elements %}
   <div class="element group-{{element.group}} period-{{element.period}}">
-    <span class="number">{{ element.number }}</span>
+    <span class="number">{{ element.atomicNumber }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
-    <span class="atomic">{{ element.atomic }}</span>
+    <span class="atomic">{{ element.atomicMass }}</span>
   </div>
   {% endfor %}
 </div>
