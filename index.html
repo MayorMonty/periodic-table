@@ -4,11 +4,41 @@ layout: default
 
 <div class="periodic-table">
   {% for element in site.data.elements %}
-  <div class="element group-{{element.group}} period-{{element.period}}">
-    <span class="number">{{ element.atomicNumber }}</span>
+  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' }} element-{{ element.number }}">
+    <span class="number">{{ element.number }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
-    <span class="atomic">{{ element.atomicMass }}</span>
+    {% assign mass = element.atomic_weight | split: "("  %}
+    <span class="atomic">{{ mass[0] | round: 2 }}</span>
   </div>
   {% endfor %}
+</div>
+
+<div class="element-dialog">
+  <h1 class="element-name">Element Name</h1>
+  <p class="element-description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam doloribus et eos velit maiores voluptas veniam iusto fugit omnis, placeat alias non accusamus, mollitia corporis repellat aut nihil, blanditiis necessitatibus.</p>
+  <table>
+    <tbody>
+        <tr>
+          <td>Boiling Point</td>
+          <td>Element Boiling Point</td>
+        </tr>
+        <tr>
+          <td>Boiling Point</td>
+          <td>Element Boiling Point</td>
+        </tr>
+        <tr>
+          <td>Boiling Point</td>
+          <td>Element Boiling Point</td>
+        </tr>
+        <tr>
+          <td>Boiling Point</td>
+          <td>Element Boiling Point</td>
+        </tr>
+        <tr>
+          <td>Boiling Point</td>
+          <td>Element Boiling Point</td>
+        </tr>
+    </tbody>
+  </table>
 </div>

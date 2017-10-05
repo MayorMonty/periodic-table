@@ -20,11 +20,11 @@ main {
 .periodic-table {
     display: grid;
 
-    // 18 groups, 9 periods
+    // 18 groups, 9 periods + 2 f-block rows
     grid-template-columns: repeat(18, 1fr);
-    grid-template-rows: repeat(9, 1fr);
+    grid-template-rows: repeat(11, 1fr);
 
-    grid-gap: 10px;
+    grid-gap: 5px;
 
     max-width: 1500px;
     height: 80vh;
@@ -43,7 +43,7 @@ main {
     text-align: center;
     position: relative;
     .symbol {
-        font-size: 36px;
+        font-size: 28px;
         display: block;
     }
     .number {
@@ -56,10 +56,11 @@ main {
         }
     }
     .atomic {
-        font-size: 14px;
+        font-size: 12px;
     }
     .name {
         display: block;
+        font-size: 12px;
     }
 }
 
@@ -97,4 +98,41 @@ main {
     .period-8  { grid-row: 8 }
     .period-9  { grid-row: 9 }
 
+    .f-block {
+        &.period-6 {
+            grid-row: 10;
+        }
+        &.period-7 {
+            grid-row: 11;
+        }
+    }
+
+}
+
+.element-dialog {
+    position: fixed;
+    background: #ffffff;
+    top: 25%;
+    min-height: 50vh;
+    left: 10%;
+    right: 10%;
+    border: 1px dashed black;
+    display: none;
+    padding: 10px;
+    padding-top: 0;
+    &.active {
+        display: block;
+    }
+
+
+    .element-name {
+        text-align: center;
+    }
+}
+
+table {
+    border: 1px dashed black;
+    tr, td {
+        padding: 5px;
+    }
 }
