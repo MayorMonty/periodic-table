@@ -8251,8 +8251,8 @@
     },
     {
       "number": 112,
-      "name": "Ununbium",
-      "symbol": "Uub",
+      "name": "copernicium",
+      "symbol": "Cn",
       "name_symbol": "copernicium, Cn",
       "pronunciation": "/ko?p?r?n?si?m/, koe-p?r-NIS-ee-?m",
       "appearance": "",
@@ -8326,8 +8326,8 @@
     },
     {
       "number": 113,
-      "name": "Ununtrium",
-      "symbol": "Uut",
+      "name": "Nihonium",
+      "symbol": "Nh",
       "name_symbol": "ununtrium, Uut",
       "pronunciation": "i/u?nu?n?tra??m/, oon-oon-TRY-?m",
       "appearance": "",
@@ -8401,8 +8401,8 @@
     },
     {
       "number": 114,
-      "name": "Ununquadium",
-      "symbol": "Uuq",
+      "name": "flerovium",
+      "symbol": "fl",
       "name_symbol": "flerovium, Fl",
       "pronunciation": "/fl??ro?vi?m/, fli-ROH-vee-?m",
       "appearance": "",
@@ -8476,8 +8476,8 @@
     },
     {
       "number": 115,
-      "name": "Ununpentium",
-      "symbol": "Uup",
+      "name": "moscovium",
+      "symbol": "Mc",
       "name_symbol": "ununpentium, Uup",
       "pronunciation": "i/u?nu?n?p?nti?m/, oon-oon-PEN-tee-?m",
       "appearance": "",
@@ -8551,8 +8551,8 @@
     },
     {
       "number": 116,
-      "name": "Ununhexium",
-      "symbol": "Uuh",
+      "name": "livermorium",
+      "symbol": "Lv",
       "name_symbol": "livermorium, Lv",
       "pronunciation": "/?l?v?r?m??ri?m/, LIV-?r-MOHR-ee-?m",
       "appearance": "",
@@ -8626,8 +8626,8 @@
     },
     {
       "number": 117,
-      "name": "Ununseptium",
-      "symbol": "Uus",
+      "name": "tennessine",
+      "symbol": "Ts",
       "name_symbol": "ununseptium, Uus",
       "pronunciation": "i/u?nu?n?s?pti?m/, oon-oon-SEP-tee-?m",
       "appearance": "semimetallic (predicted)",
@@ -8701,8 +8701,8 @@
     },
     {
       "number": 118,
-      "name": "Ununoctium",
-      "symbol": "Uuo",
+      "name": "oganesson",
+      "symbol": "Og",
       "name_symbol": "ununoctium, Uuo",
       "pronunciation": "i/u?n.u?n??kti?m/, oon-oon-OK-tee-?m",
       "appearance": "",
@@ -8774,4 +8774,4 @@
       "proposed_formal_name": "oganesson, Og",
       "alternative_names": "element 118, eka-radon"
     }
-   ]
+  ]
