@@ -13,9 +13,26 @@ window.addEventListener("load", function() {
     }
 });
 
-var dialog = document.querySelector(".element-dialog")
+var dialog = document.querySelector(".element-dialog");
+var atomic = document.querySelectorAll(".element-data-atomic");
+var mass   = document.querySelectorAll(".element-data-mass");
+var iso    = document.querySelectorAll(".element-data-iso");
+var electrons = document.querySelectorAll(".element-data-electronconfig");
 function makeDialog(number) {
+    var data = window.table[number - 1];
+    
+    substitute(atomic, data.number);
+    substitute(mass, data.atomic_weight);
+    substitute(iso, data.iso);
+    substitute(electrons, data.electron_configuration);
+
     dialog.classList.toggle("active");
+}
+
+function substitute(nodelist, value) {
+    nodelist.forEach(function(element) {
+        element.innerText = value;
+    }, this);
 }
 
 document.body.addEventListener("click", function() {

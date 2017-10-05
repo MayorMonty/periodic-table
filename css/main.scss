@@ -112,7 +112,7 @@ main {
 .element-dialog {
     position: fixed;
     background: #ffffff;
-    top: 25%;
+    top: 0;
     min-height: 50vh;
     left: 10%;
     right: 10%;
@@ -123,10 +123,12 @@ main {
     &.active {
         display: block;
     }
-
-
     .element-name {
         text-align: center;
+    }
+    @media screen and (max-width: $breakpoint) {
+        left: 0;
+        right: 0;
     }
 }
 
