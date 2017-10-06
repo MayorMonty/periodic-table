@@ -11,13 +11,16 @@ window.addEventListener("load", function() {
             }
         });
     }
+    document.body.addEventListener("click", function() {
+        dialog.classList.remove("active");
+    });
+    window.dialog = document.querySelector(".element-dialog");
+    window.atomic = document.querySelectorAll(".element-data-atomic");
+    window.mass   = document.querySelectorAll(".element-data-mass");
+    window.iso    = document.querySelectorAll(".element-data-iso");
+    window.electrons = document.querySelectorAll(".element-data-electronconfig");
 });
 
-var dialog = document.querySelector(".element-dialog");
-var atomic = document.querySelectorAll(".element-data-atomic");
-var mass   = document.querySelectorAll(".element-data-mass");
-var iso    = document.querySelectorAll(".element-data-iso");
-var electrons = document.querySelectorAll(".element-data-electronconfig");
 function makeDialog(number) {
     try {
         var data = window.table[number - 1];
@@ -73,10 +76,6 @@ function substitute(nodelist, value) {
         element.innerText = value;
     }, this);
 }
-
-document.body.addEventListener("click", function() {
-    dialog.classList.remove("active");
-});
 
 
 fetch("data/elements.json")
