@@ -7811,6 +7811,15 @@
       "alternative_names": ""
     },
     {
+      "number": 104,
+      "name": "Rutherfordium",
+      "symbol": "Rf",
+      "iso": "261Rf, syn, 70 s, >80% α, 257No, <15% ε, 261Lr, <10% SF, , 263Rf, syn, 15 min, <100% SF, , ~30% α, 259No, 265Rf, syn, 1.0 min, SF, , 266Rf, syn, 23 s?, SF, , 267Rf, syn, 1.3 h, SF",
+      "element_category": "transition metal",
+      "period": 7,
+      "group_block": 4
+    },
+    {
       "number": 105,
       "name": "Dubnium",
       "symbol": "Db",
