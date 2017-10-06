@@ -4,7 +4,7 @@ layout: default
 
 <div class="periodic-table">
   {% for element in site.data.elements %}
-  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' }} element-{{ element.number }}">
+  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' }}" data-element={{ element.number }}>
     <span class="number">{{ element.number }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
@@ -18,6 +18,6 @@ layout: default
   <h1 class="element-data-name">Element Name</h1>
   <p class="element-description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam doloribus et eos velit maiores voluptas veniam iusto fugit omnis, placeat alias non accusamus, mollitia corporis repellat aut nihil, blanditiis necessitatibus.</p>
   <div class="element-data">
-
+    
   </div>
 </div>
