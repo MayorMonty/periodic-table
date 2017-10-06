@@ -20,16 +20,22 @@ var iso    = document.querySelectorAll(".element-data-iso");
 var electrons = document.querySelectorAll(".element-data-electronconfig");
 function makeDialog(number) {
     var data = window.table[number - 1];
-    
+
     substitute(atomic, data.number);
     substitute(mass, data.atomic_weight);
     substitute(iso, data.iso);
     substitute(electrons, data.electron_configuration);
+    document.querySelector(".element-data-name").innerText = data.name;
 
     dialog.classList.toggle("active");
 }
 
+function makeIsotopes(iso) {
+
+}
+
 function substitute(nodelist, value) {
+    if (!nodelist instanceof NodeList) nodelist = [nodelist];
     nodelist.forEach(function(element) {
         element.innerText = value;
     }, this);
