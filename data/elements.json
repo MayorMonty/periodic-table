@@ -72,7 +72,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 72.8
     },
     {
       "number": 2,
@@ -147,7 +148,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 3,
@@ -222,7 +224,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 59.6
     },
     {
       "number": 4,
@@ -297,7 +300,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 5,
@@ -372,7 +376,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 26.7
     },
     {
       "number": 6,
@@ -447,7 +452,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 153.9
     },
     {
       "number": 7,
@@ -522,7 +528,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 7
     },
     {
       "number": 8,
@@ -597,7 +604,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 141
     },
     {
       "number": 9,
@@ -672,7 +680,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 328
     },
     {
       "number": 10,
@@ -747,7 +756,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 11,
@@ -822,7 +832,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50.8
     },
     {
       "number": 12,
@@ -897,7 +908,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 13,
@@ -972,7 +984,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 42.5
     },
     {
       "number": 14,
@@ -1047,7 +1060,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 133.6
     },
     {
       "number": 15,
@@ -1122,7 +1136,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 72
     },
     {
       "number": 16,
@@ -1197,7 +1212,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 200
     },
     {
       "number": 17,
@@ -1272,7 +1288,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 349
     },
     {
       "number": 18,
@@ -1347,7 +1364,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 19,
@@ -1422,7 +1440,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 48.4
     },
     {
       "number": 20,
@@ -1497,7 +1516,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 2.37
     },
     {
       "number": 21,
@@ -1572,7 +1592,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 18.1
     },
     {
       "number": 22,
@@ -1647,7 +1668,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 7.6
     },
     {
       "number": 23,
@@ -1722,7 +1744,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50.6
     },
     {
       "number": 24,
@@ -1797,7 +1820,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 64.3
     },
     {
       "number": 25,
@@ -1872,7 +1896,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 26,
@@ -1947,7 +1972,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 15.7
     },
     {
       "number": 27,
@@ -2022,7 +2048,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 63.7
     },
     {
       "number": 28,
@@ -2097,7 +2124,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 112
     },
     {
       "number": 29,
@@ -2172,7 +2200,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 118.4
     },
     {
       "number": 30,
@@ -2247,7 +2276,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 31,
@@ -2322,7 +2352,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 28.9
     },
     {
       "number": 32,
@@ -2397,7 +2428,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 119
     },
     {
       "number": 33,
@@ -2472,7 +2504,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 78
     },
     {
       "number": 34,
@@ -2547,7 +2580,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 195
     },
     {
       "number": 35,
@@ -2622,7 +2656,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 324.6
     },
     {
       "number": 36,
@@ -2697,7 +2732,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 37,
@@ -2772,7 +2808,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 46.9
     },
     {
       "number": 38,
@@ -2847,7 +2884,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 5.03
     },
     {
       "number": 39,
@@ -2922,7 +2960,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 29.6
     },
     {
       "number": 40,
@@ -2997,7 +3036,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 41.1
     },
     {
       "number": 41,
@@ -3072,7 +3112,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 86.1
     },
     {
       "number": 42,
@@ -3147,7 +3188,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 71.9
     },
     {
       "number": 43,
@@ -3222,7 +3264,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 53
     },
     {
       "number": 44,
@@ -3297,7 +3340,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 101.3
     },
     {
       "number": 45,
@@ -3372,7 +3416,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 109.7
     },
     {
       "number": 46,
@@ -3447,7 +3492,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 53.7
     },
     {
       "number": 47,
@@ -3522,7 +3568,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 125.6
     },
     {
       "number": 48,
@@ -3597,7 +3644,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 49,
@@ -3672,7 +3720,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 28.9
     },
     {
       "number": 50,
@@ -3747,7 +3796,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 107.3
     },
     {
       "number": 51,
@@ -3822,7 +3872,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 103.2
     },
     {
       "number": 52,
@@ -3897,7 +3948,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 190.2
     },
     {
       "number": 53,
@@ -3972,7 +4024,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 295.2
     },
     {
       "number": 54,
@@ -4047,7 +4100,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 55,
@@ -4122,7 +4176,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 45.5
     },
     {
       "number": 56,
@@ -4197,7 +4252,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity":13.95
     },
     {
       "number": 57,
@@ -4272,7 +4328,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 48
     },
     {
       "number": 58,
@@ -4347,7 +4404,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 59,
@@ -4422,7 +4480,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 60,
@@ -4497,7 +4556,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 61,
@@ -4572,7 +4632,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 62,
@@ -4647,7 +4708,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 63,
@@ -4722,7 +4784,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 64,
@@ -4797,7 +4860,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 65,
@@ -4872,7 +4936,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 66,
@@ -4947,7 +5012,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 67,
@@ -5022,7 +5088,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 68,
@@ -5097,7 +5164,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 69,
@@ -5172,7 +5240,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 70,
@@ -5247,7 +5316,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 71,
@@ -5322,7 +5392,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 50
     },
     {
       "number": 72,
@@ -5397,7 +5468,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 73,
@@ -5472,7 +5544,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 31
     },
     {
       "number": 74,
@@ -5547,7 +5620,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 78.6
     },
     {
       "number": 75,
@@ -5622,7 +5696,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 14.5
     },
     {
       "number": 76,
@@ -5697,7 +5772,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 106.1
     },
     {
       "number": 77,
@@ -5772,7 +5848,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 151
     },
     {
       "number": 78,
@@ -5847,7 +5924,8 @@
       "tensile_strength": "125�240 MPa",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 205.3
     },
     {
       "number": 79,
@@ -5922,7 +6000,8 @@
       "tensile_strength": "120 MPa",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 222.8
     },
     {
       "number": 80,
@@ -5997,7 +6076,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 81,
@@ -6072,7 +6152,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 19.2
     },
     {
       "number": 82,
@@ -6147,7 +6228,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 35.1
     },
     {
       "number": 83,
@@ -6222,7 +6304,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 91.2
     },
     {
       "number": 84,
@@ -6297,7 +6380,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 183.3
     },
     {
       "number": 85,
@@ -6372,7 +6456,8 @@
       "tensile_strength": "",
       "molar_volume": "(At2) 32.94 cm3/mol (predicted)",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 270.1
     },
     {
       "number": 86,
@@ -6447,7 +6532,8 @@
       "tensile_strength": "",
       "molar_volume": "",
       "proposed_formal_name": "",
-      "alternative_names": ""
+      "alternative_names": "",
+      "electron_affinity": 0
     },
     {
       "number": 87,
