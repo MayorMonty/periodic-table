@@ -4,7 +4,7 @@ layout: default
 
 <div class="periodic-table">
   {% for element in site.data.elements %}
-  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' }}" data-element={{ element.number }}>
+  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' | replace: ',', '' }} {{ element.element_category | replace ',','' }}" data-element={{ element.number }}>
     <span class="number">{{ element.number }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
@@ -12,6 +12,12 @@ layout: default
     <span class="atomic">{{ mass[0] | round: 2 }}</span>
   </div>
   {% endfor %}
+  <div class="spacer first">
+    51—74
+  </div>
+  <div class="spacer second">
+    89—103
+  </div>
 </div>
 
 <div class="element-dialog">
