@@ -20,11 +20,10 @@ main {
 .periodic-table {
     display: grid;
 
-    // 18 groups, 9 periods + 2 f-block rows
+    // 18 groups, 9 periods + 2 f-block rows + 1 spacer row
     grid-template-columns: repeat(18, 1fr);
-    grid-template-rows: repeat(11, 1fr);
+    grid-template-rows: repeat(12, 1fr);
 
-    grid-gap: 5px;
 
     max-width: 1500px;
     height: 80vh;
@@ -39,18 +38,18 @@ main {
 }
 
 .element {
-    border: 1px dashed #333333;
     text-align: center;
     position: relative;
+    margin: 0 !important;
+    margin-left: -1px;
+    cursor: pointer;
     .symbol {
         font-size: 28px;
         display: block;
+        line-height: 16px;
     }
     .number {
         font-size: 12px;
-        position: absolute;
-        top: 4px;
-        left: 4px;
         @media screen and (max-width: $breakpoint) {
             font-size: 32px;
         }
@@ -61,6 +60,49 @@ main {
     .name {
         display: block;
         font-size: 12px;
+    }
+    &.noble.gas {
+        background-color: #77CCFF;
+    }
+    &.nonmetal {
+        background-color: #22FF22;
+    }
+    &.metalloid {
+        background-color: #77DD88;
+    }
+    &.post-transition {
+        background-color: #99DDCC;
+    }
+    &.transition {
+        background-color: #DDBBBB;
+    }
+    &.lanthanide {
+        background-color: #FFBB99;
+    }
+    &.actinide {
+        background-color: #EEBBDD;
+    }
+    &.alkali {
+        background-color: #FFCC33;
+    }
+    &.alkaline {
+        background-color: #FFFF44;
+    }
+}
+
+.spacer {
+    grid-column: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &.first {
+        grid-row: 6
+    }
+    &.second {
+        grid-row: 7
+    }
+    @media screen and (max-width: $breakpoint) {
+        display: none;
     }
 }
 
@@ -100,11 +142,18 @@ main {
 
     .f-block {
         &.period-6 {
-            grid-row: 10;
-        }
-        &.period-7 {
             grid-row: 11;
         }
+        &.period-7 {
+            grid-row: 12;
+        }
+    }
+
+    .element[data-element="71"] {
+        grid-row: 11;
+    }
+    .element[data-element="103"] {
+        grid-row: 12;
     }
 
 }
@@ -116,7 +165,6 @@ main {
     min-height: 50vh;
     left: 10%;
     right: 10%;
-    border: 1px dashed black;
     display: none;
     padding: 10px;
     padding-top: 0;
@@ -133,7 +181,6 @@ main {
 }
 
 table {
-    border: 1px dashed black;
     tr, td {
         padding: 5px;
     }
