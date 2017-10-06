@@ -11,6 +11,7 @@ body, html {
 
     font-family: "Helvetica Neue", sans-serif;
     color: #333333;
+    background: #eeeeee;
 }
 
 main {
@@ -159,20 +160,14 @@ main {
 }
 
 .element-dialog {
-    position: fixed;
-    background: #ffffff;
-    top: 0;
-    min-height: 50vh;
+    position: fixed !important;
+    top: 5vh;
     left: 10%;
     right: 10%;
     display: none;
-    padding: 10px;
-    padding-top: 0;
+    max-height: 90vh;
     &.active {
         display: block;
-    }
-    .element-data-name {
-        text-align: center;
     }
     @media screen and (max-width: $breakpoint) {
         left: 0;

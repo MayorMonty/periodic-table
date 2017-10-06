@@ -11,26 +11,61 @@ window.addEventListener("load", function() {
             }
         });
     }
-    document.body.addEventListener("click", function() {
-        dialog.classList.remove("active");
-    });
     window.dialog = document.querySelector(".element-dialog");
+    window.atomicName   = document.querySelectorAll(".element-data-name")
     window.atomic = document.querySelectorAll(".element-data-atomic");
     window.mass   = document.querySelectorAll(".element-data-mass");
     window.iso    = document.querySelectorAll(".element-data-iso");
     window.electrons = document.querySelectorAll(".element-data-electronconfig");
+    window.atomicradius = document.querySelectorAll(".element-data-atomicradius");
+    window.ionization = document.querySelectorAll(".element-data-ionization");
+    window.affinity = document.querySelectorAll(".element-data-affinity");
+    window.electronegativity = document.querySelectorAll(".element-data-electronegativity");
 });
 
 function makeDialog(number) {
     try {
         var data = window.table[number - 1];
-        var isotopes = parseIsotopes(access(data, "iso"), data.symbol);
-        console.log(isotopes)
         substitute(atomic, data.number);
         substitute(mass, data.atomic_weight);
         substitute(iso, data.iso);
         substitute(electrons, data.electron_configuration);
-        document.querySelector(".element-data-name").innerText = data.name;
+        substitute(atomicName, data.name);
+        substitute(atomicradius, data.atomic_radius);
+        substitute(ionization, data.ionization_energies);
+        substitute(affinity, data.electron_affinity);
+        substitute(electronegativity, data.electronegativity);
+
+        var isotopes = parseIsotopes(access(data, "iso"), data.symbol);
+        console.log(isotopes);
+        var table = `<table class="responsive-table bordered">
+            <thead><tr>
+            <td>Isotope</td>
+            <td>Abundance</td>
+            <td>Half Life</td>
+            <td>Spin</td>
+            <td>Decay Energy</td>
+            <td>Decay Product</td>
+            </tr></thead>
+            <tbody>
+            ${isotopes.map( 
+                a => 
+                    `<tr>
+                        <td>${a.isotope}</td>
+                        <td>${a.abundance}</td>
+                        <td>${a.halfLife}</td>
+                        <td>${a.spin}</td>
+                        <td>${a.decayEnergy}</td>
+                        <td>${a.decayProduct}</td>
+                    </tr>` 
+            ).join(" ")
+            }
+            </tbody>
+        </table>`
+        
+        document.querySelector(".isotope-table").innerHTML = table;
+        
+
     } catch(e) {
         console.log(e);
     }

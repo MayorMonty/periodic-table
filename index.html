@@ -4,7 +4,7 @@ layout: default
 
 <div class="periodic-table">
   {% for element in site.data.elements %}
-  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' | replace: ',', '' }} {{ element.element_category | replace ',','' }}" data-element={{ element.number }}>
+  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" data-element={{ element.number }}>
     <span class="number">{{ element.number }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
@@ -20,10 +20,57 @@ layout: default
   </div>
 </div>
 
-<div class="element-dialog">
-  <h1 class="element-data-name">Element Name</h1>
-  <p class="element-description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam doloribus et eos velit maiores voluptas veniam iusto fugit omnis, placeat alias non accusamus, mollitia corporis repellat aut nihil, blanditiis necessitatibus.</p>
-  <div class="element-data">
-    
+<div class="card element-dialog">
+  <div class="card-tabs">
+      <ul class="tabs tabs-fixed-width">
+        <li class="tab"><a href="#basic" class="active">Basic Information</a></li>
+        <li class="tab"><a href="#iso">Isotopes</a></li>
+      </ul>
+    </div>
+  <div class="card-content">
+    <table class="responsive-table bordered" id="basic">
+      <thead>
+        <tr>
+          <td class="element-data-name">Element Name</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Atomic Number (Protons)</td>
+          <td class="element-data-atomic"></td>
+        </tr>
+        <tr>
+          <td>Average Atomic Mass</td>
+          <td class="element-data-mass"></td>
+        </tr>
+        <tr>
+          <td>Electron Configuration</td>
+          <td class="element-data-electronconfig"></td>
+        </tr>
+        <tr>
+          <td>Atomic Radius</td>
+          <td class="element-data-atomicradius"></td>
+        </tr>
+        <tr>
+          <td>Ionization Energies</td>
+          <td class="element-data-ionization"></td>
+        </tr>
+        <tr>
+          <td>Electron Affinity</td>
+          <td class="element-data-affinity"></td>
+        </tr>
+        <tr>
+          <td>Electronegativity</td>
+          <td class="element-data-electronegativity"></td>
+        </tr>
+      </tbody>
+    </table>
+    <div id="iso">
+        <h5>Isotopes</h5>
+        <div class="isotope-table"></div>
+    </div>
+  </div>
+  <div class="card-action">
+      <a class="waves-effect waves-teal btn-flat" onClick="dialog.classList.remove('active');">Dismiss</a>
   </div>
 </div>

@@ -7817,7 +7817,11 @@
       "iso": "261Rf, syn, 70 s, >80% α, 257No, <15% ε, 261Lr, <10% SF, , 263Rf, syn, 15 min, <100% SF, , ~30% α, 259No, 265Rf, syn, 1.0 min, SF, , 266Rf, syn, 23 s?, SF, , 267Rf, syn, 1.3 h, SF",
       "element_category": "transition metal",
       "period": 7,
-      "group_block": 4
+      "group_block": 4,
+      "electron_configuration": "[Rn] 5f14 6d2 7s2[1][2]",
+      "atomic_weight": "(267)",
+      "atomic_radius": "empirical: 150 pm",
+      "ionization_energies": "1st: 579.9 kJ/mol, 2nd: 1389.4 kJ/mol, 3rd: 2296.4 kJ/mol, (more, but only estimated)"
     },
     {
       "number": 105,
