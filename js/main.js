@@ -36,8 +36,7 @@ function makeDialog(number) {
         substitute(affinity, data.electron_affinity);
         substitute(electronegativity, data.electronegativity);
 
-        var isotopes = parseIsotopes(access(data, "iso"), data.symbol);
-        console.log(isotopes);
+        var isotopes = access(data, "iso");
         var table = `<table class="responsive-table bordered">
             <thead><tr>
             <td>Isotope</td>
@@ -71,25 +70,6 @@ function makeDialog(number) {
     }
 
     dialog.classList.toggle("active");
-}
-
-function parseIsotopes(iso, symbol) {
-    var list = isolateIsotopes(iso.split(","), symbol);
-    return Array(list.length - 1).fill({}).map( (a,i,v) => ({
-        "isotope": list[i+1][0],
-        "abundance": list[i+1][1],
-        "halfLife": list[i+1][2],
-        "spin": list[i+1][3],
-        "decayEnergy": list[i+1][4],
-        "decayProduct": list[i+1][5]
-    }))
-}
-
-function isolateIsotopes(iso, symbol) {
-    var indicies = [0, ...iso.filter((v, i, a) => new RegExp(`[0-9]+${symbol}`).test(v) && !~v.indexOf("is stable")).map( v => iso.indexOf(v) )];
-    return indicies.map( (v, i, a) => 
-        iso.slice(v, a[i + 1])
-    )
 }
 
 function splitEvery(n, list) {
