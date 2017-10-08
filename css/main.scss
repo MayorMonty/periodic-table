@@ -28,9 +28,9 @@ main {
 
     max-width: 1500px;
     height: 80vh;
-    padding: 10px;
     padding-top: 10vh;
-    margin: 0 auto;
+    margin: 0 auto;    
+    grid-gap: 8px;
 
     @media screen and (max-width: $breakpoint) {
         grid-template-columns: 1fr;
@@ -89,6 +89,10 @@ main {
     &.alkaline {
         background-color: #FFFF44;
     }
+}
+
+nav {
+    position: fixed;
 }
 
 .spacer {
