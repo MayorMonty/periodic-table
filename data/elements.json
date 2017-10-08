@@ -540,7 +540,7 @@
 			"4620.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "",
+		"covalent_radius": "77 pm",
 		"van_der_waals_radius": "170 pm",
 		"crystal_structure": "diamond: face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -2693,7 +2693,7 @@
 			"3248 kJ/mol",
 			""
 		],
-		"covalent_radius": "",
+		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2808,7 +2808,7 @@
 			"2957 kJ/mol",
 			""
 		],
-		"covalent_radius": "",
+		"covalent_radius": "125 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), between 1185�1667 K",
 		"speed_of_sound": "",
@@ -2941,7 +2941,7 @@
 			"3232 kJ/mol",
 			""
 		],
-		"covalent_radius": "",
+		"covalent_radius": "126 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -12775,6 +12775,7 @@
 		"electron_configuration": "[Rn] 5f14 6d2 7s2[1][2]",
 		"atomic_weight": "(267)",
 		"atomic_radius": "150 pm",
+		"covalent_radius": "150 pm",
 		"ionization_energies": [
 			"579.9 kJ/mol",
 			"1389.4 kJ/mol",
