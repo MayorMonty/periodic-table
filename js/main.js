@@ -23,6 +23,7 @@ window.addEventListener("load", function() {
     window.electronegativity = document.querySelectorAll(".element-data-electronegativity");
 });
 
+
 function makeDialog(number) {
     try {
         var data = window.table[number - 1];
@@ -42,8 +43,7 @@ function makeDialog(number) {
             <td>Isotope</td>
             <td>Abundance</td>
             <td>Half Life</td>
-            <td>Spin</td>
-            <td>Decay Energy</td>
+            <td>Decay Energy (MeV)</td>
             <td>Decay Product</td>
             </tr></thead>
             <tbody>
@@ -53,7 +53,6 @@ function makeDialog(number) {
                         <td>${a.isotope}</td>
                         <td>${a.abundance}</td>
                         <td>${a.halfLife}</td>
-                        <td>${a.spin}</td>
                         <td>${a.decayEnergy}</td>
                         <td>${a.decayProduct}</td>
                     </tr>` 
