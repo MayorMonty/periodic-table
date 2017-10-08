@@ -12,14 +12,14 @@ function access(element, prop) {
 }
 
 function parseIsotopes(iso, symbol) {
-    var list = isolateIsotopes(iso.split(", "), symbol);
+    var list = isolateIsotopes(iso.split(/[,\n]/), symbol);
     return Array(list.length - 1).fill({}).map( (a,i,v) => ({
-        "isotope": list[i+1][0] || "No Data/NA",
-        "abundance": list[i+1][1] || "No Data/NA",
+        "isotope": list[i+1][0] || "No Data",
+        "abundance": list[i+1][1] || "No Data",
         "halfLife": 
-            ~(v=~(list[i+1][2] || "No Data/NA").indexOf("stable") ? "stable" : list[i+1][2] || "").indexOf("�") ? `${v.split("�")[0]}*10^${v.split(/(10)| /g)[2]}` :  v,
-        "decayEnergy": list[i+1][4] || "No Data/NA",
-        "decayProduct": list[i+1][5 || "No Data/NA"]
+            ~(v=~(list[i+1][2] || "No Data").indexOf("stable") ? "stable" : list[i+1][2] || "").indexOf("�") ? `${v.split("�")[0]} x 10<sup>${v.split(/(10)| /g)[2]}</sup> y` :  v,
+        "decayEnergy": (e=list[i+1][4] || "No Data") === "�" ? "No Data" : e,
+        "decayProduct": list[i+1][5 || "No Data"] === "�" ? "No Data" : list[i+1][5 || "No Data"]
     }))
 }
 
@@ -39,7 +39,7 @@ for (var i = 0; i < elements.length; i++) {
     element.boiling_point = access(element, "boiling_point").replace(/[?]/g, "-").replace(/[�]/g, "°");
     element.electronegativity = +access(element, "electronegativity").split(": ")[1];
     element.iso = parseIsotopes(element.iso, element.symbol);
-    element.ionization_energies = element.ionisation_energies = access(element, "ionization_energies").split(", ").map( a => (a.split(": ")[1] || "").replace(" kJ/mol", "") )
+    element.ionization_energies = element.ionisation_energies = access(element, "ionization_energies").split(", ").map( a => (a.split(": ")[1] || "") )
     element.atomic_radius = access(element, "atomic_radius").split(": ")[1];
     element.group = element.group_block.split(/[ ,]/g)[1]
     
