@@ -31,7 +31,7 @@
 		"ionization_energies": [
 			"1312.0 kJ/mol"
 		],
-		"covalent_radius": "31�5 pm",
+		"covalent_radius": "31",
 		"van_der_waals_radius": "120 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "1310 m/s (gas, 27 �C)",
@@ -137,7 +137,7 @@
 			"2372.3 kJ/mol",
 			"5250.5 kJ/mol"
 		],
-		"covalent_radius": "28 pm",
+		"covalent_radius": "28",
 		"van_der_waals_radius": "140 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "972 m/s",
@@ -233,7 +233,7 @@
 			"7298.1 kJ/mol",
 			"11815.0 kJ/mol"
 		],
-		"covalent_radius": "128�7 pm",
+		"covalent_radius": "128",
 		"van_der_waals_radius": "182 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -332,7 +332,7 @@
 			"14,848.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "96�3 pm",
+		"covalent_radius": "96",
 		"van_der_waals_radius": "153 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -440,7 +440,7 @@
 			"3659.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "84�3 pm",
+		"covalent_radius": "84",
 		"van_der_waals_radius": "192 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -540,7 +540,7 @@
 			"4620.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "sp3: 77 pm, sp2: 73 pm, sp: 69 pm",
+		"covalent_radius": "",
 		"van_der_waals_radius": "170 pm",
 		"crystal_structure": "diamond: face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -650,7 +650,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "71�1 pm",
+		"covalent_radius": "71",
 		"van_der_waals_radius": "155 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "353 m/s (gas, at 27 �C)",
@@ -753,7 +753,7 @@
 			"5300.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "66�2 pm",
+		"covalent_radius": "66",
 		"van_der_waals_radius": "152 pm",
 		"crystal_structure": "cubic",
 		"speed_of_sound": "330 m/s (gas, at 27 �C)",
@@ -858,7 +858,7 @@
 			"6147 kJ/mol",
 			""
 		],
-		"covalent_radius": "64 pm",
+		"covalent_radius": "64",
 		"van_der_waals_radius": "135 pm",
 		"crystal_structure": "cubic",
 		"speed_of_sound": "",
@@ -958,7 +958,7 @@
 			"6122 kJ/mol",
 			""
 		],
-		"covalent_radius": "58 pm",
+		"covalent_radius": "58",
 		"van_der_waals_radius": "154 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "435 m/s (gas, at 0 �C)",
@@ -1063,7 +1063,7 @@
 			"6910.3 kJ/mol",
 			""
 		],
-		"covalent_radius": "166�9 pm",
+		"covalent_radius": "166",
 		"van_der_waals_radius": "227 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -1164,7 +1164,7 @@
 			"7732.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "141�7 pm",
+		"covalent_radius": "141",
 		"van_der_waals_radius": "173 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -1270,7 +1270,7 @@
 			"2744.8 kJ/mol",
 			""
 		],
-		"covalent_radius": "121�4 pm",
+		"covalent_radius": "121",
 		"van_der_waals_radius": "184 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -1371,7 +1371,7 @@
 			"3231.6 kJ/mol",
 			""
 		],
-		"covalent_radius": "111 pm",
+		"covalent_radius": "111",
 		"van_der_waals_radius": "210 pm",
 		"crystal_structure": "face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -1490,7 +1490,7 @@
 			"1907 kJ/mol",
 			"2914.1 kJ/mol"
 		],
-		"covalent_radius": "107�3 pm",
+		"covalent_radius": "107",
 		"van_der_waals_radius": "180 pm",
 		"crystal_structure": "body-centred cubic (bcc)",
 		"speed_of_sound": "",
@@ -1596,7 +1596,7 @@
 			"3357 kJ/mol",
 			""
 		],
-		"covalent_radius": "105�3 pm",
+		"covalent_radius": "105",
 		"van_der_waals_radius": "180 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -1711,7 +1711,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "102�4 pm",
+		"covalent_radius": "102",
 		"van_der_waals_radius": "175 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "206 m/s (gas, at 0 �C)",
@@ -1814,7 +1814,7 @@
 			"3931 kJ/mol",
 			""
 		],
-		"covalent_radius": "106�10 pm",
+		"covalent_radius": "106",
 		"van_der_waals_radius": "188 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "323 m/s (gas, at 27 �C)",
@@ -1947,7 +1947,7 @@
 			"4420 kJ/mol",
 			""
 		],
-		"covalent_radius": "203�12 pm",
+		"covalent_radius": "203",
 		"van_der_waals_radius": "275 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2054,7 +2054,7 @@
 			"4912.4 kJ/mol",
 			""
 		],
-		"covalent_radius": "176�10 pm",
+		"covalent_radius": "176",
 		"van_der_waals_radius": "231 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -2200,7 +2200,7 @@
 			"2388.6 kJ/mol",
 			""
 		],
-		"covalent_radius": "170�7 pm",
+		"covalent_radius": "170",
 		"van_der_waals_radius": "211 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -2334,7 +2334,7 @@
 			"2652.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "160�8 pm",
+		"covalent_radius": "160",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -2459,7 +2459,7 @@
 			"2830 kJ/mol",
 			""
 		],
-		"covalent_radius": "153�8 pm",
+		"covalent_radius": "153",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2574,7 +2574,7 @@
 			"2987 kJ/mol",
 			""
 		],
-		"covalent_radius": "139�5 pm",
+		"covalent_radius": "139",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2693,7 +2693,7 @@
 			"3248 kJ/mol",
 			""
 		],
-		"covalent_radius": "Low spin: 139�5 pm, High spin: 161�8 pm",
+		"covalent_radius": "",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2808,7 +2808,7 @@
 			"2957 kJ/mol",
 			""
 		],
-		"covalent_radius": "Low spin: 132�3 pm, High spin: 152�6 pm",
+		"covalent_radius": "",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), between 1185�1667 K",
 		"speed_of_sound": "",
@@ -2941,7 +2941,7 @@
 			"3232 kJ/mol",
 			""
 		],
-		"covalent_radius": "Low spin: 126�3 pm, High spin: 150�7 pm",
+		"covalent_radius": "",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -3063,7 +3063,7 @@
 			"3395 kJ/mol",
 			""
 		],
-		"covalent_radius": "124�4 pm",
+		"covalent_radius": "124",
 		"van_der_waals_radius": "163 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -3195,7 +3195,7 @@
 			"3555 kJ/mol",
 			""
 		],
-		"covalent_radius": "132�4 pm",
+		"covalent_radius": "132",
 		"van_der_waals_radius": "140 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -3309,7 +3309,7 @@
 			"3833 kJ/mol",
 			""
 		],
-		"covalent_radius": "122�4 pm",
+		"covalent_radius": "122",
 		"van_der_waals_radius": "139 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -3455,7 +3455,7 @@
 			"2963 kJ/mol",
 			""
 		],
-		"covalent_radius": "122�3 pm",
+		"covalent_radius": "122",
 		"van_der_waals_radius": "187 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -3596,7 +3596,7 @@
 			"1537.5 kJ/mol",
 			"3302.1 kJ/mol"
 		],
-		"covalent_radius": "122 pm",
+		"covalent_radius": "122",
 		"van_der_waals_radius": "211 pm",
 		"crystal_structure": "face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -3728,7 +3728,7 @@
 			"2735 kJ/mol",
 			""
 		],
-		"covalent_radius": "119�4 pm",
+		"covalent_radius": "119",
 		"van_der_waals_radius": "185 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -3835,7 +3835,7 @@
 			"2045 kJ/mol",
 			"2973.7 kJ/mol"
 		],
-		"covalent_radius": "120�4 pm",
+		"covalent_radius": "120",
 		"van_der_waals_radius": "190 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "",
@@ -3977,7 +3977,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "120�3 pm",
+		"covalent_radius": "120",
 		"van_der_waals_radius": "185 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "206 m/s (at 20 �C)",
@@ -4073,7 +4073,7 @@
 			"2350.4 kJ/mol",
 			"3565 kJ/mol"
 		],
-		"covalent_radius": "116�4 pm",
+		"covalent_radius": "116",
 		"van_der_waals_radius": "202 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "(gas, 23 �C) 220 m�s?1\n(liquid) 1120 m/s",
@@ -4215,7 +4215,7 @@
 			"2632.1 kJ/mol",
 			"3859.4 kJ/mol"
 		],
-		"covalent_radius": "220�9 pm",
+		"covalent_radius": "220",
 		"van_der_waals_radius": "303 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -4335,7 +4335,7 @@
 			"1064.2 kJ/mol",
 			"4138 kJ/mol"
 		],
-		"covalent_radius": "195�10 pm",
+		"covalent_radius": "195",
 		"van_der_waals_radius": "249 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -4480,7 +4480,7 @@
 			"1180 kJ/mol",
 			"1980 kJ/mol"
 		],
-		"covalent_radius": "190�7 pm",
+		"covalent_radius": "190",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -4600,7 +4600,7 @@
 			"1270 kJ/mol",
 			"2218 kJ/mol"
 		],
-		"covalent_radius": "175�7 pm",
+		"covalent_radius": "175",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -4738,7 +4738,7 @@
 			"1380 kJ/mol",
 			"2416 kJ/mol"
 		],
-		"covalent_radius": "164�6 pm",
+		"covalent_radius": "164",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -4898,7 +4898,7 @@
 			"1560 kJ/mol",
 			"2618 kJ/mol"
 		],
-		"covalent_radius": "154�5 pm",
+		"covalent_radius": "154",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -5041,7 +5041,7 @@
 			"1470 kJ/mol",
 			"2850 kJ/mol"
 		],
-		"covalent_radius": "147�7 pm",
+		"covalent_radius": "147",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -5173,7 +5173,7 @@
 			"1620 kJ/mol",
 			"2747 kJ/mol"
 		],
-		"covalent_radius": "146�7 pm",
+		"covalent_radius": "146",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -5322,7 +5322,7 @@
 			"1740 kJ/mol",
 			"2997 kJ/mol"
 		],
-		"covalent_radius": "142�7 pm",
+		"covalent_radius": "142",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -5448,7 +5448,7 @@
 			"1870 kJ/mol",
 			"3177 kJ/mol"
 		],
-		"covalent_radius": "139�6 pm",
+		"covalent_radius": "139",
 		"van_der_waals_radius": "163 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -5591,7 +5591,7 @@
 			"2070 kJ/mol",
 			"3361 kJ/mol"
 		],
-		"covalent_radius": "145�5 pm",
+		"covalent_radius": "145",
 		"van_der_waals_radius": "172 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -5711,7 +5711,7 @@
 			"1631.4 kJ/mol",
 			"3616 kJ/mol"
 		],
-		"covalent_radius": "144�9 pm",
+		"covalent_radius": "144",
 		"van_der_waals_radius": "158 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -5874,7 +5874,7 @@
 			"1820.7 kJ/mol",
 			"2704 kJ/mol"
 		],
-		"covalent_radius": "142�5 pm",
+		"covalent_radius": "142",
 		"van_der_waals_radius": "193 pm",
 		"crystal_structure": "tetragonal",
 		"speed_of_sound": "",
@@ -5973,7 +5973,7 @@
 			"1411.8 kJ/mol",
 			"2943.0 kJ/mol"
 		],
-		"covalent_radius": "139�4 pm",
+		"covalent_radius": "139",
 		"van_der_waals_radius": "217 pm",
 		"crystal_structure": "face-centered diamond-cubic, gray (?)",
 		"speed_of_sound": "",
@@ -6127,7 +6127,7 @@
 			"2440 kJ/mol",
 			""
 		],
-		"covalent_radius": "139�5 pm",
+		"covalent_radius": "139",
 		"van_der_waals_radius": "206 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -6233,7 +6233,7 @@
 			"1790 kJ/mol",
 			"2698 kJ/mol"
 		],
-		"covalent_radius": "138�4 pm",
+		"covalent_radius": "138",
 		"van_der_waals_radius": "206 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "",
@@ -6388,7 +6388,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "139�3 pm",
+		"covalent_radius": "139",
 		"van_der_waals_radius": "198 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -6520,7 +6520,7 @@
 			"2046.4 kJ/mol",
 			"3099.4 kJ/mol"
 		],
-		"covalent_radius": "140�9 pm",
+		"covalent_radius": "140",
 		"van_der_waals_radius": "216 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "gas: 178 m�s?1, liquid: 1090 m/s",
@@ -6688,7 +6688,7 @@
 			"2234.3 kJ/mol",
 			"3400 kJ/mol"
 		],
-		"covalent_radius": "244�11 pm",
+		"covalent_radius": "244",
 		"van_der_waals_radius": "343 pm",
 		"crystal_structure": "body-centred cubic (bcc)",
 		"speed_of_sound": "",
@@ -6801,7 +6801,7 @@
 			"965.2 kJ/mol",
 			"3600 kJ/mol"
 		],
-		"covalent_radius": "215�11 pm",
+		"covalent_radius": "215",
 		"van_der_waals_radius": "268 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -6937,7 +6937,7 @@
 			"1067 kJ/mol",
 			"1850.3 kJ/mol"
 		],
-		"covalent_radius": "207�8 pm",
+		"covalent_radius": "207",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7041,7 +7041,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "204�9 pm",
+		"covalent_radius": "204",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centred cubic (fcc), ?-Ce",
 		"speed_of_sound": "",
@@ -7184,7 +7184,7 @@
 			"1020 kJ/mol",
 			"2086 kJ/mol"
 		],
-		"covalent_radius": "203�7 pm",
+		"covalent_radius": "203",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7290,7 +7290,7 @@
 			"1040 kJ/mol",
 			"2130 kJ/mol"
 		],
-		"covalent_radius": "201�6 pm",
+		"covalent_radius": "201",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7420,7 +7420,7 @@
 			"1050 kJ/mol",
 			"2150 kJ/mol"
 		],
-		"covalent_radius": "199 pm",
+		"covalent_radius": "199",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7527,7 +7527,7 @@
 			"1070 kJ/mol",
 			"2260 kJ/mol"
 		],
-		"covalent_radius": "198�8 pm",
+		"covalent_radius": "198",
 		"van_der_waals_radius": "",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -7685,7 +7685,7 @@
 			"1085 kJ/mol",
 			"2404 kJ/mol"
 		],
-		"covalent_radius": "198�6 pm",
+		"covalent_radius": "198",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -7812,7 +7812,7 @@
 			"1170 kJ/mol",
 			"1990 kJ/mol"
 		],
-		"covalent_radius": "196�6 pm",
+		"covalent_radius": "196",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -7955,7 +7955,7 @@
 			"1110 kJ/mol",
 			"2114 kJ/mol"
 		],
-		"covalent_radius": "194�5 pm",
+		"covalent_radius": "194",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8061,7 +8061,7 @@
 			"1130 kJ/mol",
 			"2200 kJ/mol"
 		],
-		"covalent_radius": "192�7 pm",
+		"covalent_radius": "192",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8196,7 +8196,7 @@
 			"1140 kJ/mol",
 			"2204 kJ/mol"
 		],
-		"covalent_radius": "192�7 pm",
+		"covalent_radius": "192",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8316,7 +8316,7 @@
 			"1150 kJ/mol",
 			"2194 kJ/mol"
 		],
-		"covalent_radius": "189�6 pm",
+		"covalent_radius": "189",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8473,7 +8473,7 @@
 			"1160 kJ/mol",
 			"2285 kJ/mol"
 		],
-		"covalent_radius": "190�10 pm",
+		"covalent_radius": "190",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8593,7 +8593,7 @@
 			"1174.8 kJ/mol",
 			"2417 kJ/mol"
 		],
-		"covalent_radius": "187�8 pm",
+		"covalent_radius": "187",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -8749,7 +8749,7 @@
 			"1340 kJ/mol",
 			"2022.3 kJ/mol"
 		],
-		"covalent_radius": "187�8 pm",
+		"covalent_radius": "187",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8862,7 +8862,7 @@
 			"1440 kJ/mol",
 			"2250 kJ/mol"
 		],
-		"covalent_radius": "175�10 pm",
+		"covalent_radius": "175",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -9011,7 +9011,7 @@
 			"761 kJ/mol",
 			"1500 kJ/mol"
 		],
-		"covalent_radius": "170�8 pm",
+		"covalent_radius": "170",
 		"van_der_waals_radius": "",
 		"crystal_structure": "tetragonal, ?-Ta",
 		"speed_of_sound": "",
@@ -9143,7 +9143,7 @@
 			"770 kJ/mol",
 			"1700 kJ/mol"
 		],
-		"covalent_radius": "162�7 pm",
+		"covalent_radius": "162",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -9274,7 +9274,7 @@
 			"2510 kJ/mol",
 			""
 		],
-		"covalent_radius": "151�7 pm",
+		"covalent_radius": "151",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -9373,7 +9373,7 @@
 			"840 kJ/mol",
 			"1600 kJ/mol"
 		],
-		"covalent_radius": "144�4 pm",
+		"covalent_radius": "144",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -9528,7 +9528,7 @@
 			"880 kJ/mol",
 			"1600 kJ/mol"
 		],
-		"covalent_radius": "141�6 pm",
+		"covalent_radius": "141",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -9692,7 +9692,7 @@
 			"870 kJ/mol",
 			"1791 kJ/mol"
 		],
-		"covalent_radius": "136�5 pm",
+		"covalent_radius": "136",
 		"van_der_waals_radius": "175 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -9820,7 +9820,7 @@
 			"890.1 kJ/mol",
 			"1980 kJ/mol"
 		],
-		"covalent_radius": "136�6 pm",
+		"covalent_radius": "136",
 		"van_der_waals_radius": "166 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -9939,7 +9939,7 @@
 			"1810 kJ/mol",
 			"3300 kJ/mol"
 		],
-		"covalent_radius": "132�5 pm",
+		"covalent_radius": "132",
 		"van_der_waals_radius": "155 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "liquid: 1451.4 m/s (at 20 �C)",
@@ -10095,7 +10095,7 @@
 			"1971 kJ/mol",
 			"2878 kJ/mol"
 		],
-		"covalent_radius": "145�7 pm",
+		"covalent_radius": "145",
 		"van_der_waals_radius": "196 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -10200,7 +10200,7 @@
 			"1450.5 kJ/mol",
 			"3081.5 kJ/mol"
 		],
-		"covalent_radius": "146�5 pm",
+		"covalent_radius": "146",
 		"van_der_waals_radius": "202 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -10332,7 +10332,7 @@
 			"2466 kJ/mol",
 			""
 		],
-		"covalent_radius": "148�4 pm",
+		"covalent_radius": "148",
 		"van_der_waals_radius": "207 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -10451,7 +10451,7 @@
 		"ionization_energies": [
 			"812.1 kJ/mol"
 		],
-		"covalent_radius": "140�4 pm",
+		"covalent_radius": "140",
 		"van_der_waals_radius": "197 pm",
 		"crystal_structure": "rhombohedral, ?-Po",
 		"speed_of_sound": "",
@@ -10554,7 +10554,7 @@
 		"ionization_energies": [
 			"899.003 kJ/mol"
 		],
-		"covalent_radius": "150 pm",
+		"covalent_radius": "150",
 		"van_der_waals_radius": "202 pm",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -10656,7 +10656,7 @@
 		"ionization_energies": [
 			"1037 kJ/mol"
 		],
-		"covalent_radius": "150 pm",
+		"covalent_radius": "150",
 		"van_der_waals_radius": "220 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -10761,11 +10761,11 @@
 		"molar_heat_capacity": "",
 		"p_(pa)": "vapor pressure (extrapolated), P (Pa), 1, 10, 100, 1 k, 10 k, 100 k, at T (K), 404, 454, 519, 608, 738, 946",
 		"oxidation_states": "+1 (a strongly basic oxide)",
-		"electronegativity": null,
+		"electronegativity": 0.7,
 		"ionization_energies": [
 			"393 kJ/mol"
 		],
-		"covalent_radius": "260 pm (extrapolated)",
+		"covalent_radius": "260",
 		"van_der_waals_radius": "348 pm (extrapolated)",
 		"crystal_structure": "body-centered cubic (bcc), (extrapolated)",
 		"speed_of_sound": "",
@@ -10867,7 +10867,7 @@
 			"509.3 kJ/mol",
 			"979.0 kJ/mol"
 		],
-		"covalent_radius": "221�2 pm",
+		"covalent_radius": "221",
 		"van_der_waals_radius": "283 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -10986,7 +10986,7 @@
 			"1900 kJ/mol",
 			""
 		],
-		"covalent_radius": "215 pm",
+		"covalent_radius": "215",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -11090,7 +11090,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "206�6 pm",
+		"covalent_radius": "206",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centred cubic (fcc)",
 		"speed_of_sound": "",
@@ -11220,7 +11220,7 @@
 		"ionization_energies": [
 			"568 kJ/mol"
 		],
-		"covalent_radius": "200 pm",
+		"covalent_radius": "200",
 		"van_der_waals_radius": "",
 		"crystal_structure": "tetragonal",
 		"speed_of_sound": "",
@@ -11344,7 +11344,7 @@
 			"597.6 kJ/mol",
 			"1420 kJ/mol"
 		],
-		"covalent_radius": "196�7 pm",
+		"covalent_radius": "196",
 		"van_der_waals_radius": "186 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -11468,7 +11468,7 @@
 		"ionization_energies": [
 			"604.5 kJ/mol"
 		],
-		"covalent_radius": "190�1 pm",
+		"covalent_radius": "190",
 		"van_der_waals_radius": "",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -11577,7 +11577,7 @@
 		"ionization_energies": [
 			"584.7 kJ/mol"
 		],
-		"covalent_radius": "187�1 pm",
+		"covalent_radius": "187",
 		"van_der_waals_radius": "",
 		"crystal_structure": "monoclinic",
 		"speed_of_sound": "2260 m/s",
@@ -11700,7 +11700,7 @@
 		"ionization_energies": [
 			"578 kJ/mol"
 		],
-		"covalent_radius": "180�6 pm",
+		"covalent_radius": "180",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -11808,7 +11808,7 @@
 		"ionization_energies": [
 			"581 kJ/mol"
 		],
-		"covalent_radius": "169�3 pm",
+		"covalent_radius": "169",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -12792,7 +12792,8 @@
 			"",
 			""
 		],
-		"group": "4"
+		"group": "4",
+		"covalent_radius": ""
 	},
 	{
 		"number": 105,
@@ -12829,7 +12830,7 @@
 			"2378.4 kJ/mol",
 			""
 		],
-		"covalent_radius": "149 pm (estimated)",
+		"covalent_radius": "149",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc) (predicted)",
 		"speed_of_sound": "",
@@ -12957,7 +12958,7 @@
 			"2483.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "143 pm (estimated)",
+		"covalent_radius": "143",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc), (predicted)",
 		"speed_of_sound": "",
@@ -13072,7 +13073,7 @@
 			"2566.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "141 pm (estimated)",
+		"covalent_radius": "141",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -13194,7 +13195,7 @@
 			"2827.0 kJ/mol",
 			""
 		],
-		"covalent_radius": "134 pm (estimated)",
+		"covalent_radius": "134",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -13309,7 +13310,7 @@
 			"2904.2 kJ/mol",
 			""
 		],
-		"covalent_radius": "129 pm (estimated)",
+		"covalent_radius": "129",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -13417,7 +13418,7 @@
 			"3029.6 kJ/mol",
 			""
 		],
-		"covalent_radius": "128 pm (estimated)",
+		"covalent_radius": "128",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc), (predicted)",
 		"speed_of_sound": "",
@@ -13518,7 +13519,7 @@
 			"3077.9 kJ/mol",
 			""
 		],
-		"covalent_radius": "121 pm (estimated)",
+		"covalent_radius": "121",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc), (predicted)",
 		"speed_of_sound": "",
@@ -13633,7 +13634,7 @@
 			"3164.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "122 pm (predicted)",
+		"covalent_radius": "122",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -13734,7 +13735,7 @@
 			"3203.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "172�180 pm (extrapolated)",
+		"covalent_radius": "172",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -13820,7 +13821,7 @@
 			"3367.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "171�177 pm (extrapolated)",
+		"covalent_radius": "171",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -13906,7 +13907,7 @@
 			"2653.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "156�158 pm (extrapolated)",
+		"covalent_radius": "156",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -13992,7 +13993,7 @@
 			"2846.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "162�166 pm (extrapolated)",
+		"covalent_radius": "162",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -14105,7 +14106,7 @@
 			"742.9 kJ/mol (predicted)",
 			"1785.0�1920.1 kJ/mol (extrapolated)"
 		],
-		"covalent_radius": "156�157 pm (extrapolated)",
+		"covalent_radius": "156",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -14187,7 +14188,7 @@
 			"839.4 kJ/mol (predicted)",
 			"1563.1 kJ/mol (predicted)"
 		],
-		"covalent_radius": "157 pm (predicted)",
+		"covalent_radius": "157",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",

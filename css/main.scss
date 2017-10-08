@@ -93,6 +93,7 @@ main {
 
 nav {
     position: fixed;
+    z-index: 99;
 }
 
 .spacer {
@@ -176,6 +177,12 @@ nav {
     @media screen and (max-width: $breakpoint) {
         left: 0;
         right: 0;
+    }
+}
+
+ul#colorbytrend {
+    * {
+        color: #333333 !important;
     }
 }
 

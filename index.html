@@ -2,18 +2,27 @@
 layout: default
 ---
 <nav>
-    <div class="nav-wrapper">
-      <ul class="right hide-on-med-and-down">
-        <li><a><i class="material-icons left">search</i>Search</a></li>
-        <li><a><i class="material-icons left">view_module</i>Color by Trend</a></li>
-        <li><a><i class="material-icons left">info</i>More Information</a></li>
-      </ul>
-    </div>
-  </nav>
+  <div class="nav-wrapper">
+    <ul class="right hide-on-med-and-down">
+      <li><a><i class="material-icons left">search</i>Search</a></li>
+      <li><a data-activates="colorbytrend" class="dropdown-button"><i class="material-icons left">highlight</i>Color by <strong id="color-filter">Element Category</strong></a></li>
+      <li><a><i class="material-icons left">info</i>More Information</a></li>
+    </ul>
+  </div>
+</nav>
         
+<ul id="colorbytrend" class="dropdown-content black-text">
+  <li><a href="#" onClick="colorBy('category')">No Trend (Element Category)</a></li>
+  <li><a href="#" onClick="colorBy('radius')">Atomic Radius</a></li>
+  <li><a href="#" onClick="colorBy('electronegativity')">Electronegativity</a></li>
+  <li><a href="#" onClick="colorBy('ionization')">Ionization Energy</a></li>
+  <li><a href="#" onClick="colorBy('affinity')">Electron Affinity</a></li>  
+</ul>
+        
+
 <div class="periodic-table">
   {% for element in site.data.elements %}
-  <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" data-element={{ element.number }}>
+  <div class="element period-{{element.period}} group-{{ element.group_block | replace: "group ", '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" data-element={{ element.number }} data-electronegativity="{{ element.electronegativity }}" data-affinity="{{ element.electron_affinity }}" data-radius="{{ (((element.covalent_radius | replace: '�','.') | replace: 'pm','') | split: ' ')[1] }}">
     <span class="number">{{ element.number }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
@@ -58,7 +67,7 @@ layout: default
           <td class="element-data-electronconfig"></td>
         </tr>
         <tr>
-          <td>Atomic Radius</td>
+          <td>Atomic Radius (Covalent)</td>
           <td class="element-data-atomicradius"></td>
         </tr>
         <tr>

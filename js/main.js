@@ -32,7 +32,7 @@ function makeDialog(number) {
         substitute(iso, data.iso);
         substitute(electrons, data.electron_configuration);
         substitute(atomicName, data.name);
-        substitute(atomicradius, data.atomic_radius);
+        substitute(atomicradius, data.covalent_radius);
         substitute(ionization, data.ionization_energies);
         substitute(affinity, data.electron_affinity);
         substitute(electronegativity, data.electronegativity);
@@ -91,6 +91,57 @@ function substitute(nodelist, value) {
     }, this);
 }
 
+function elementIterate(fn) {
+    var elements = document.querySelectorAll(".periodic-table .element");
+    elements.forEach( e => fn(e) );
+    return elements;
+}
+
+function colorBy(trend) {
+    var display = document.getElementById("color-filter");
+    switch(trend) {
+        case "radius":
+            elementIterate( e => {
+                if(e.dataset.radius !== "") {
+                    e.style.backgroundColor = `rgb(${Math.round((+e.dataset.radius / 225) * 238)}, 110, 115)`;
+                } else {
+                    e.style.backgroundColor = "#EEEEEE"
+                }
+            });
+            display.innerText = "Atomic Radius";
+            break;
+        case "electronegativity":
+            elementIterate( e => {
+                if(e.dataset.electronegativity !== "") {
+                    e.style.backgroundColor = `rgb(${Math.round((+e.dataset.electronegativity / 4) * 238)}, 110, 115)`;
+                } else {
+                    e.style.backgroundColor = "#EEEEEE"
+                }
+            });
+            display.innerText = "Electronegativity";
+            break;
+        case "ionization":
+            elementIterate( e => e.style = "" );
+            display.innerText = "Ionization Energy";
+            break;
+        case "affinity":
+        elementIterate( e => {
+            if(e.dataset.affinity !== "") {
+                e.style.backgroundColor = `rgb(${Math.round((+e.dataset.affinity / 349) * 238)}, 110, 115)`;
+            } else {
+                e.style.backgroundColor = "#EEEEEE"
+            }
+        });
+            display.innerText = "Electron Affinity";
+            break;
+        case "category":
+        default:
+            elementIterate( e => e.style = "" );
+            display.innerText = "Element Category"
+
+
+    }
+}
 
 fetch("data/elements.json")
     .then( r => r.json() )

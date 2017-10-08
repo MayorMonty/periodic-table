@@ -33,15 +33,7 @@ function isolateIsotopes(iso, symbol) {
 for (var i = 0; i < elements.length; i++) {
     var element = elements[i];
 
-    element.name = element.name.charAt(0).toUpperCase() + element.name.substring(1, element.name.length);
-    element.atomic_weight = access(element, "atomic_weight").split(" (")[0];
-    element.melting_point = access(element, "melting_point").replace(/[?]/g, "-").replace(/[�]/g, "°");
-    element.boiling_point = access(element, "boiling_point").replace(/[?]/g, "-").replace(/[�]/g, "°");
-    element.electronegativity = +access(element, "electronegativity").split(": ")[1];
-    element.iso = parseIsotopes(element.iso, element.symbol);
-    element.ionization_energies = element.ionisation_energies = access(element, "ionization_energies").split(", ").map( a => (a.split(": ")[1] || "") )
-    element.atomic_radius = access(element, "atomic_radius").split(": ")[1];
-    element.group = element.group_block.split(/[ ,]/g)[1]
+    element.covalent_radius = (element.covalent_radius || "").split(/[^0-9]/g).filter( a => +a !== NaN )[0]
     
 }
 
