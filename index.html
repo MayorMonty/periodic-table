@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
-
+<nav>
+    <div class="nav-wrapper">
+      <ul class="right hide-on-med-and-down">
+        <li><a><i class="material-icons left">search</i>Search</a></li>
+        <li><a><i class="material-icons left">view_module</i>Color by Trend</a></li>
+        <li><a><i class="material-icons left">info</i>More Information</a></li>
+      </ul>
+    </div>
+  </nav>
+        
 <div class="periodic-table">
   {% for element in site.data.elements %}
   <div class="element period-{{element.period}} group-{{ element.group_block | replace: 'group ', '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" data-element={{ element.number }}>
@@ -20,10 +29,11 @@ layout: default
   </div>
 </div>
 
+
 <div class="card element-dialog">
   <div class="card-tabs">
       <ul class="tabs tabs-fixed-width">
-        <li class="tab"><a href="#basic" class="active">Basic Information</a></li>
+        <li class="tab"><aass="active">Basic Information</a></li>
         <li class="tab"><a href="#iso">Isotopes</a></li>
       </ul>
     </div>
@@ -71,6 +81,12 @@ layout: default
     </div>
   </div>
   <div class="card-action">
-      <a class="waves-effect waves-teal btn-flat" onClick="dialog.classList.remove('active');">Dismiss</a>
+      <a class="waves-effect waves-red btn-flat red-text" onClick="dialog.classList.remove('active');">Dismiss</a>
   </div>
 </div>
+
+<script>
+  $(document).ready(function(){
+    $("ul.tabs").tabs();
+  });
+</script>
