@@ -31,7 +31,7 @@
 		"ionization_energies": [
 			"1312.0 kJ/mol"
 		],
-		"covalent_radius": "31",
+		"covalent_radius": "31 pm",
 		"van_der_waals_radius": "120 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "1310 m/s (gas, 27 �C)",
@@ -116,7 +116,7 @@
 		"group_block": "group 18 (noble gases), s-block",
 		"period": 1,
 		"element_category": "noble gas",
-		"atomic_weight": "4.002602(2)",
+		"atomic_weight": "4.002602",
 		"electron_configuration": "1s2",
 		"per_shell": "2",
 		"color": "",
@@ -138,7 +138,7 @@
 			"2372.3 kJ/mol",
 			"5250.5 kJ/mol"
 		],
-		"covalent_radius": "28",
+		"covalent_radius": "28 pm",
 		"van_der_waals_radius": "140 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "972 m/s",
@@ -235,7 +235,7 @@
 			"7298.1 kJ/mol",
 			"11815.0 kJ/mol"
 		],
-		"covalent_radius": "128",
+		"covalent_radius": "128 pm",
 		"van_der_waals_radius": "182 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -311,7 +311,7 @@
 		"group_block": "group 2 (alkaline earth metals), s-block",
 		"period": 2,
 		"element_category": "alkaline earth metal",
-		"atomic_weight": "9.0121831(5)",
+		"atomic_weight": "9.0121831",
 		"electron_configuration": "[He] 2s2",
 		"per_shell": "2, 2",
 		"color": "",
@@ -335,7 +335,7 @@
 			"14,848.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "96",
+		"covalent_radius": "96 pm",
 		"van_der_waals_radius": "153 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -444,7 +444,7 @@
 			"3659.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "84",
+		"covalent_radius": "84 pm",
 		"van_der_waals_radius": "192 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -545,7 +545,7 @@
 			"4620.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "77 pm",
+		"covalent_radius": "77 pm pm",
 		"van_der_waals_radius": "170 pm",
 		"crystal_structure": "diamond: face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -656,7 +656,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "71",
+		"covalent_radius": "71 pm",
 		"van_der_waals_radius": "155 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "353 m/s (gas, at 27 �C)",
@@ -760,7 +760,7 @@
 			"5300.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "66",
+		"covalent_radius": "66 pm",
 		"van_der_waals_radius": "152 pm",
 		"crystal_structure": "cubic",
 		"speed_of_sound": "330 m/s (gas, at 27 �C)",
@@ -842,7 +842,7 @@
 		"group_block": "group 17 (halogens), p-block",
 		"period": 2,
 		"element_category": "diatomic nonmetal",
-		"atomic_weight": "18.998403163(6)",
+		"atomic_weight": "18.998403163",
 		"electron_configuration": "[He] 2s2 2p5",
 		"per_shell": "2, 7",
 		"color": "",
@@ -866,7 +866,7 @@
 			"6147 kJ/mol",
 			""
 		],
-		"covalent_radius": "64",
+		"covalent_radius": "64 pm",
 		"van_der_waals_radius": "135 pm",
 		"crystal_structure": "cubic",
 		"speed_of_sound": "",
@@ -943,7 +943,7 @@
 		"group_block": "group 18 (noble gases), p-block",
 		"period": 2,
 		"element_category": "noble gas",
-		"atomic_weight": "20.1797(6)",
+		"atomic_weight": "20.1797",
 		"electron_configuration": "[He] 2s2 2p6",
 		"per_shell": "2, 8",
 		"color": "",
@@ -967,7 +967,7 @@
 			"6122 kJ/mol",
 			""
 		],
-		"covalent_radius": "58",
+		"covalent_radius": "58 pm",
 		"van_der_waals_radius": "154 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "435 m/s (gas, at 0 �C)",
@@ -1049,7 +1049,7 @@
 		"group_block": "group 1 (alkali metals), s-block",
 		"period": 3,
 		"element_category": "alkali metal",
-		"atomic_weight": "22.98976928(2)",
+		"atomic_weight": "22.98976928",
 		"electron_configuration": "[Ne] 3s1",
 		"per_shell": "2, 8, 1",
 		"color": "",
@@ -1073,7 +1073,7 @@
 			"6910.3 kJ/mol",
 			""
 		],
-		"covalent_radius": "166",
+		"covalent_radius": "166 pm",
 		"van_der_waals_radius": "227 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -1175,7 +1175,7 @@
 			"7732.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "141",
+		"covalent_radius": "141 pm",
 		"van_der_waals_radius": "173 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -1258,7 +1258,7 @@
 		"group_block": "group 13, p-block",
 		"period": 3,
 		"element_category": "post-transition metal, sometimes considered a metalloid",
-		"atomic_weight": "26.9815385(7)",
+		"atomic_weight": "26.9815385",
 		"electron_configuration": "[Ne] 3s2 3p1",
 		"per_shell": "2, 8, 3",
 		"color": "",
@@ -1282,7 +1282,7 @@
 			"2744.8 kJ/mol",
 			""
 		],
-		"covalent_radius": "121",
+		"covalent_radius": "121 pm",
 		"van_der_waals_radius": "184 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -1384,7 +1384,7 @@
 			"3231.6 kJ/mol",
 			""
 		],
-		"covalent_radius": "111",
+		"covalent_radius": "111 pm",
 		"van_der_waals_radius": "210 pm",
 		"crystal_structure": "face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -1481,7 +1481,7 @@
 		"group_block": "group 15 (pnictogens), p-block",
 		"period": 3,
 		"element_category": "polyatomic nonmetal",
-		"atomic_weight": "30.973761998(5)",
+		"atomic_weight": "30.973761998",
 		"electron_configuration": "[Ne] 3s2 3p3",
 		"per_shell": "2, 8, 5",
 		"color": "",
@@ -1504,7 +1504,7 @@
 			"1907 kJ/mol",
 			"2914.1 kJ/mol"
 		],
-		"covalent_radius": "107",
+		"covalent_radius": "107 pm",
 		"van_der_waals_radius": "180 pm",
 		"crystal_structure": "body-centred cubic (bcc)",
 		"speed_of_sound": "",
@@ -1611,7 +1611,7 @@
 			"3357 kJ/mol",
 			""
 		],
-		"covalent_radius": "105",
+		"covalent_radius": "105 pm",
 		"van_der_waals_radius": "180 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -1727,7 +1727,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "102",
+		"covalent_radius": "102 pm",
 		"van_der_waals_radius": "175 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "206 m/s (gas, at 0 �C)",
@@ -1807,7 +1807,7 @@
 		"group_block": "group 18 (noble gases), p-block",
 		"period": 3,
 		"element_category": "noble gas",
-		"atomic_weight": "39.948(1)",
+		"atomic_weight": "39.948",
 		"electron_configuration": "[Ne] 3s2 3p6",
 		"per_shell": "2, 8, 8",
 		"color": "",
@@ -1831,7 +1831,7 @@
 			"3931 kJ/mol",
 			""
 		],
-		"covalent_radius": "106",
+		"covalent_radius": "106 pm",
 		"van_der_waals_radius": "188 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "323 m/s (gas, at 27 �C)",
@@ -1941,7 +1941,7 @@
 		"group_block": "group 1 (alkali metals), s-block",
 		"period": 4,
 		"element_category": "alkali metal",
-		"atomic_weight": "39.0983(1)",
+		"atomic_weight": "39.0983",
 		"electron_configuration": "[Ar] 4s1",
 		"per_shell": "2, 8, 8, 1",
 		"color": "",
@@ -1965,7 +1965,7 @@
 			"4420 kJ/mol",
 			""
 		],
-		"covalent_radius": "203",
+		"covalent_radius": "203 pm",
 		"van_der_waals_radius": "275 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2049,7 +2049,7 @@
 		"group_block": "group 2 (alkaline earth metals), s-block",
 		"period": 4,
 		"element_category": "alkaline earth metal",
-		"atomic_weight": "40.078(4)",
+		"atomic_weight": "40.078",
 		"electron_configuration": "[Ar] 4s2",
 		"per_shell": "2, 8, 8, 2",
 		"color": "",
@@ -2073,7 +2073,7 @@
 			"4912.4 kJ/mol",
 			""
 		],
-		"covalent_radius": "176",
+		"covalent_radius": "176 pm",
 		"van_der_waals_radius": "231 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -2196,7 +2196,7 @@
 		"group_block": "group 3, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "44.955908(5)",
+		"atomic_weight": "44.955908",
 		"electron_configuration": "[Ar] 3d1 4s2",
 		"per_shell": "2, 8, 9, 2",
 		"color": "",
@@ -2220,7 +2220,7 @@
 			"2388.6 kJ/mol",
 			""
 		],
-		"covalent_radius": "170",
+		"covalent_radius": "170 pm",
 		"van_der_waals_radius": "211 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -2331,7 +2331,7 @@
 		"group_block": "group 4, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "47.867(1)",
+		"atomic_weight": "47.867",
 		"electron_configuration": "[Ar] 3d2 4s2",
 		"per_shell": "2, 8, 10, 2",
 		"color": "",
@@ -2355,7 +2355,7 @@
 			"2652.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "160",
+		"covalent_radius": "160 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -2457,7 +2457,7 @@
 		"group_block": "group 5, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "50.9415(1)",
+		"atomic_weight": "50.9415",
 		"electron_configuration": "[Ar] 3d3 4s2",
 		"per_shell": "2, 8, 11, 2",
 		"color": "",
@@ -2481,7 +2481,7 @@
 			"2830 kJ/mol",
 			""
 		],
-		"covalent_radius": "153",
+		"covalent_radius": "153 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2573,7 +2573,7 @@
 		"group_block": "group 6, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "51.9961(6)",
+		"atomic_weight": "51.9961",
 		"electron_configuration": "[Ar] 3d5 4s1",
 		"per_shell": "2, 8, 13, 1",
 		"color": "",
@@ -2597,7 +2597,7 @@
 			"2987 kJ/mol",
 			""
 		],
-		"covalent_radius": "139",
+		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2693,7 +2693,7 @@
 		"group_block": "group 7, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "54.938044(3)",
+		"atomic_weight": "54.938044",
 		"electron_configuration": "[Ar] 3d5 4s2",
 		"per_shell": "2, 8, 13, 2",
 		"color": "",
@@ -2717,7 +2717,7 @@
 			"3248 kJ/mol",
 			""
 		],
-		"covalent_radius": "139 pm",
+		"covalent_radius": "139 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -2809,7 +2809,7 @@
 		"group_block": "group 8, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "55.845(2)",
+		"atomic_weight": "55.845",
 		"electron_configuration": "[Ar] 3d6 4s2",
 		"per_shell": "2, 8, 14, 2",
 		"color": "",
@@ -2833,7 +2833,7 @@
 			"2957 kJ/mol",
 			""
 		],
-		"covalent_radius": "125 pm",
+		"covalent_radius": "125 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), between 1185�1667 K",
 		"speed_of_sound": "",
@@ -2943,7 +2943,7 @@
 		"group_block": "group 9, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "58.933194(4)",
+		"atomic_weight": "58.933194",
 		"electron_configuration": "[Ar] 3d7 4s2",
 		"per_shell": "2, 8, 15, 2",
 		"color": "metallic gray",
@@ -2967,7 +2967,7 @@
 			"3232 kJ/mol",
 			""
 		],
-		"covalent_radius": "126 pm",
+		"covalent_radius": "126 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -3066,7 +3066,7 @@
 		"group_block": "group 10, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "58.6934(4)",
+		"atomic_weight": "58.6934",
 		"electron_configuration": "[Ar] 3d8 4s2 or, [Ar] 3d9 4s1",
 		"per_shell": "2, 8, 16, 2 or 2, 8, 17, 1",
 		"color": "",
@@ -3090,7 +3090,7 @@
 			"3395 kJ/mol",
 			""
 		],
-		"covalent_radius": "124",
+		"covalent_radius": "124 pm",
 		"van_der_waals_radius": "163 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -3199,7 +3199,7 @@
 		"group_block": "group 11, d-block",
 		"period": 4,
 		"element_category": "transition metal",
-		"atomic_weight": "63.546(3)",
+		"atomic_weight": "63.546",
 		"electron_configuration": "[Ar] 3d10 4s1",
 		"per_shell": "2, 8, 18, 1",
 		"color": "",
@@ -3223,7 +3223,7 @@
 			"3555 kJ/mol",
 			""
 		],
-		"covalent_radius": "132",
+		"covalent_radius": "132 pm",
 		"van_der_waals_radius": "140 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -3314,7 +3314,7 @@
 		"group_block": "group 12, d-block",
 		"period": 4,
 		"element_category": "transition metal, alternatively considered a post-transition metal",
-		"atomic_weight": "65.38(2)",
+		"atomic_weight": "65.38",
 		"electron_configuration": "[Ar] 3d10 4s2",
 		"per_shell": "2, 8, 18, 2",
 		"color": "",
@@ -3338,7 +3338,7 @@
 			"3833 kJ/mol",
 			""
 		],
-		"covalent_radius": "122",
+		"covalent_radius": "122 pm",
 		"van_der_waals_radius": "139 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -3461,7 +3461,7 @@
 		"group_block": "group 13, p-block",
 		"period": 4,
 		"element_category": "post-transition metal",
-		"atomic_weight": "69.723(1)",
+		"atomic_weight": "69.723",
 		"electron_configuration": "[Ar] 3d10 4s2 4p1",
 		"per_shell": "2, 8, 18, 3",
 		"color": "",
@@ -3485,7 +3485,7 @@
 			"2963 kJ/mol",
 			""
 		],
-		"covalent_radius": "122",
+		"covalent_radius": "122 pm",
 		"van_der_waals_radius": "187 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -3604,7 +3604,7 @@
 		"group_block": "group 14 (carbon group), p-block",
 		"period": 4,
 		"element_category": "metalloid",
-		"atomic_weight": "72.630(8)",
+		"atomic_weight": "72.630",
 		"electron_configuration": "[Ar] 3d10 4s2 4p2",
 		"per_shell": "2, 8, 18, 4",
 		"color": "",
@@ -3627,7 +3627,7 @@
 			"1537.5 kJ/mol",
 			"3302.1 kJ/mol"
 		],
-		"covalent_radius": "122",
+		"covalent_radius": "122 pm",
 		"van_der_waals_radius": "211 pm",
 		"crystal_structure": "face-centered diamond-cubic",
 		"speed_of_sound": "",
@@ -3736,7 +3736,7 @@
 		"group_block": "group 15 (pnictogens), p-block",
 		"period": 4,
 		"element_category": "metalloid",
-		"atomic_weight": "74.921595(6)",
+		"atomic_weight": "74.921595",
 		"electron_configuration": "[Ar] 3d10 4s2 4p3",
 		"per_shell": "2, 8, 18, 5",
 		"color": "",
@@ -3760,7 +3760,7 @@
 			"2735 kJ/mol",
 			""
 		],
-		"covalent_radius": "119",
+		"covalent_radius": "119 pm",
 		"van_der_waals_radius": "185 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -3845,7 +3845,7 @@
 		"group_block": "group 16 (chalcogens), p-block",
 		"period": 4,
 		"element_category": "polyatomic nonmetal, sometimes considered a metalloid",
-		"atomic_weight": "78.971(8)",
+		"atomic_weight": "78.971",
 		"electron_configuration": "[Ar] 3d10 4s2 4p4",
 		"per_shell": "2, 8, 18, 6",
 		"color": "",
@@ -3868,7 +3868,7 @@
 			"2045 kJ/mol",
 			"2973.7 kJ/mol"
 		],
-		"covalent_radius": "120",
+		"covalent_radius": "120 pm",
 		"van_der_waals_radius": "190 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "",
@@ -4011,7 +4011,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "120",
+		"covalent_radius": "120 pm",
 		"van_der_waals_radius": "185 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "206 m/s (at 20 �C)",
@@ -4085,7 +4085,7 @@
 		"group_block": "group 18 (noble gases), p-block",
 		"period": 4,
 		"element_category": "noble gas",
-		"atomic_weight": "83.798(2)",
+		"atomic_weight": "83.798",
 		"electron_configuration": "[Ar] 3d10 4s2 4p6",
 		"per_shell": "2, 8, 18, 8",
 		"color": "",
@@ -4108,7 +4108,7 @@
 			"2350.4 kJ/mol",
 			"3565 kJ/mol"
 		],
-		"covalent_radius": "116",
+		"covalent_radius": "116 pm",
 		"van_der_waals_radius": "202 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "(gas, 23 �C) 220 m�s?1\n(liquid) 1120 m/s",
@@ -4228,7 +4228,7 @@
 		"group_block": "group 1 (alkali metals), s-block",
 		"period": 5,
 		"element_category": "alkali metal",
-		"atomic_weight": "85.4678(3)",
+		"atomic_weight": "85.4678",
 		"electron_configuration": "[Kr] 5s1",
 		"per_shell": "2, 8, 18, 8, 1",
 		"color": "",
@@ -4251,7 +4251,7 @@
 			"2632.1 kJ/mol",
 			"3859.4 kJ/mol"
 		],
-		"covalent_radius": "220",
+		"covalent_radius": "220 pm",
 		"van_der_waals_radius": "303 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -4349,7 +4349,7 @@
 		"group_block": "group 2 (alkaline earth metals), s-block",
 		"period": 5,
 		"element_category": "alkaline earth metal",
-		"atomic_weight": "87.62(1)",
+		"atomic_weight": "87.62",
 		"electron_configuration": "[Kr] 5s2",
 		"per_shell": "2, 8, 18, 8, 2",
 		"color": "",
@@ -4372,7 +4372,7 @@
 			"1064.2 kJ/mol",
 			"4138 kJ/mol"
 		],
-		"covalent_radius": "195",
+		"covalent_radius": "195 pm",
 		"van_der_waals_radius": "249 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -4495,7 +4495,7 @@
 		"group_block": "group 3, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "88.90584(2)",
+		"atomic_weight": "88.90584",
 		"electron_configuration": "[Kr] 4d1 5s2",
 		"per_shell": "2, 8, 18, 9, 2",
 		"color": "",
@@ -4518,7 +4518,7 @@
 			"1180 kJ/mol",
 			"1980 kJ/mol"
 		],
-		"covalent_radius": "190",
+		"covalent_radius": "190 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -4616,7 +4616,7 @@
 		"group_block": "group 4, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "91.224(2)",
+		"atomic_weight": "91.224",
 		"electron_configuration": "[Kr] 4d2 5s2",
 		"per_shell": "2, 8, 18, 10, 2",
 		"color": "",
@@ -4639,7 +4639,7 @@
 			"1270 kJ/mol",
 			"2218 kJ/mol"
 		],
-		"covalent_radius": "175",
+		"covalent_radius": "175 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -4755,7 +4755,7 @@
 		"group_block": "group 5, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "92.90637(2)",
+		"atomic_weight": "92.90637",
 		"electron_configuration": "[Kr] 4d4 5s1",
 		"per_shell": "2, 8, 18, 12, 1",
 		"color": "",
@@ -4778,7 +4778,7 @@
 			"1380 kJ/mol",
 			"2416 kJ/mol"
 		],
-		"covalent_radius": "164",
+		"covalent_radius": "164 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -4916,7 +4916,7 @@
 		"group_block": "group 6, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "95.95(1)",
+		"atomic_weight": "95.95",
 		"electron_configuration": "[Kr] 4d5 5s1",
 		"per_shell": "2, 8, 18, 13, 1",
 		"color": "",
@@ -4939,7 +4939,7 @@
 			"1560 kJ/mol",
 			"2618 kJ/mol"
 		],
-		"covalent_radius": "154",
+		"covalent_radius": "154 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -5060,7 +5060,7 @@
 		"group_block": "group 7, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "[98]",
+		"atomic_weight": "98",
 		"electron_configuration": "[Kr] 4d5 5s2",
 		"per_shell": "2, 8, 18, 13, 2",
 		"color": "",
@@ -5083,7 +5083,7 @@
 			"1470 kJ/mol",
 			"2850 kJ/mol"
 		],
-		"covalent_radius": "147",
+		"covalent_radius": "147 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -5193,7 +5193,7 @@
 		"group_block": "group 8, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "101.07(2)",
+		"atomic_weight": "101.07",
 		"electron_configuration": "[Kr] 4d7 5s1",
 		"per_shell": "2, 8, 18, 15, 1",
 		"color": "",
@@ -5216,7 +5216,7 @@
 			"1620 kJ/mol",
 			"2747 kJ/mol"
 		],
-		"covalent_radius": "146",
+		"covalent_radius": "146 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -5343,7 +5343,7 @@
 		"group_block": "group 9, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "102.90550(2)",
+		"atomic_weight": "102.90550",
 		"electron_configuration": "[Kr] 4d8 5s1",
 		"per_shell": "2, 8, 18, 16, 1",
 		"color": "",
@@ -5366,7 +5366,7 @@
 			"1740 kJ/mol",
 			"2997 kJ/mol"
 		],
-		"covalent_radius": "142",
+		"covalent_radius": "142 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -5470,7 +5470,7 @@
 		"group_block": "group 10, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "106.42(1)",
+		"atomic_weight": "106.42",
 		"electron_configuration": "[Kr] 4d10",
 		"per_shell": "2, 8, 18, 18",
 		"color": "",
@@ -5493,7 +5493,7 @@
 			"1870 kJ/mol",
 			"3177 kJ/mol"
 		],
-		"covalent_radius": "139",
+		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "163 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -5614,7 +5614,7 @@
 		"group_block": "group 11, d-block",
 		"period": 5,
 		"element_category": "transition metal",
-		"atomic_weight": "107.8682(2)",
+		"atomic_weight": "107.8682",
 		"electron_configuration": "[Kr] 4d10 5s1",
 		"per_shell": "2, 8, 18, 18, 1",
 		"color": "",
@@ -5637,7 +5637,7 @@
 			"2070 kJ/mol",
 			"3361 kJ/mol"
 		],
-		"covalent_radius": "145",
+		"covalent_radius": "145 pm",
 		"van_der_waals_radius": "172 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -5735,7 +5735,7 @@
 		"group_block": "group 12, d-block",
 		"period": 5,
 		"element_category": "transition metal, alternatively considered a post-transition metal",
-		"atomic_weight": "112.414(4)",
+		"atomic_weight": "112.414",
 		"electron_configuration": "[Kr] 4d10 5s2",
 		"per_shell": "2, 8, 18, 18, 2",
 		"color": "",
@@ -5758,7 +5758,7 @@
 			"1631.4 kJ/mol",
 			"3616 kJ/mol"
 		],
-		"covalent_radius": "144",
+		"covalent_radius": "144 pm",
 		"van_der_waals_radius": "158 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -5899,7 +5899,7 @@
 		"group_block": "group 13, p-block",
 		"period": 5,
 		"element_category": "post-transition metal",
-		"atomic_weight": "114.818(1)",
+		"atomic_weight": "114.818",
 		"electron_configuration": "[Kr] 4d10 5s2 5p1",
 		"per_shell": "2, 8, 18, 18, 3",
 		"color": "",
@@ -5922,7 +5922,7 @@
 			"1820.7 kJ/mol",
 			"2704 kJ/mol"
 		],
-		"covalent_radius": "142",
+		"covalent_radius": "142 pm",
 		"van_der_waals_radius": "193 pm",
 		"crystal_structure": "tetragonal",
 		"speed_of_sound": "",
@@ -5999,7 +5999,7 @@
 		"group_block": "group 14 (carbon group), p-block",
 		"period": 5,
 		"element_category": "post-transition metal",
-		"atomic_weight": "118.710(7)",
+		"atomic_weight": "118.710",
 		"electron_configuration": "[Kr] 4d10 5s2 5p2",
 		"per_shell": "2, 8, 18, 18, 4",
 		"color": "",
@@ -6022,7 +6022,7 @@
 			"1411.8 kJ/mol",
 			"2943.0 kJ/mol"
 		],
-		"covalent_radius": "139",
+		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "217 pm",
 		"crystal_structure": "face-centered diamond-cubic, gray (?)",
 		"speed_of_sound": "",
@@ -6153,7 +6153,7 @@
 		"group_block": "group 15 (pnictogens), p-block",
 		"period": 5,
 		"element_category": "metalloid",
-		"atomic_weight": "121.760(1)",
+		"atomic_weight": "121.760",
 		"electron_configuration": "[Kr] 4d10 5s2 5p3",
 		"per_shell": "2, 8, 18, 18, 5",
 		"color": "",
@@ -6177,7 +6177,7 @@
 			"2440 kJ/mol",
 			""
 		],
-		"covalent_radius": "139",
+		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "206 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -6261,7 +6261,7 @@
 		"group_block": "group 16 (chalcogens), p-block",
 		"period": 5,
 		"element_category": "metalloid",
-		"atomic_weight": "127.60(3)",
+		"atomic_weight": "127.60",
 		"electron_configuration": "[Kr] 4d10 5s2 5p4",
 		"per_shell": "2, 8, 18, 18, 6",
 		"color": "",
@@ -6284,7 +6284,7 @@
 			"1790 kJ/mol",
 			"2698 kJ/mol"
 		],
-		"covalent_radius": "138",
+		"covalent_radius": "138 pm",
 		"van_der_waals_radius": "206 pm",
 		"crystal_structure": "hexagonal",
 		"speed_of_sound": "",
@@ -6419,7 +6419,7 @@
 		"group_block": "group 17 (halogens), p-block",
 		"period": 5,
 		"element_category": "diatomic nonmetal",
-		"atomic_weight": "126.90447(3)",
+		"atomic_weight": "126.90447",
 		"electron_configuration": "[Kr] 4d10 5s2 5p5",
 		"per_shell": "2, 8, 18, 18, 7",
 		"color": "",
@@ -6440,7 +6440,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "139",
+		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "198 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -6550,7 +6550,7 @@
 		"group_block": "group 18 (noble gases), p-block",
 		"period": 5,
 		"element_category": "noble gas",
-		"atomic_weight": "131.293(6)",
+		"atomic_weight": "131.293",
 		"electron_configuration": "[Kr] 4d10 5s2 5p6",
 		"per_shell": "2, 8, 18, 18, 8",
 		"color": "",
@@ -6573,7 +6573,7 @@
 			"2046.4 kJ/mol",
 			"3099.4 kJ/mol"
 		],
-		"covalent_radius": "140",
+		"covalent_radius": "140 pm",
 		"van_der_waals_radius": "216 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "gas: 178 m�s?1, liquid: 1090 m/s",
@@ -6719,7 +6719,7 @@
 		"group_block": "group 1 (alkali metals), s-block",
 		"period": 6,
 		"element_category": "alkali metal",
-		"atomic_weight": "132.90545196(6)",
+		"atomic_weight": "132.90545196",
 		"electron_configuration": "[Xe] 6s1",
 		"per_shell": "2, 8, 18, 18, 8, 1",
 		"color": "",
@@ -6742,7 +6742,7 @@
 			"2234.3 kJ/mol",
 			"3400 kJ/mol"
 		],
-		"covalent_radius": "244",
+		"covalent_radius": "244 pm",
 		"van_der_waals_radius": "343 pm",
 		"crystal_structure": "body-centred cubic (bcc)",
 		"speed_of_sound": "",
@@ -6833,7 +6833,7 @@
 		"group_block": "group 2 (alkaline earth metals), s-block",
 		"period": 6,
 		"element_category": "alkaline earth metals",
-		"atomic_weight": "137.327(7)",
+		"atomic_weight": "137.327",
 		"electron_configuration": "[Xe] 6s2",
 		"per_shell": "2, 8, 18, 18, 8, 2",
 		"color": "",
@@ -6856,7 +6856,7 @@
 			"965.2 kJ/mol",
 			"3600 kJ/mol"
 		],
-		"covalent_radius": "215",
+		"covalent_radius": "215 pm",
 		"van_der_waals_radius": "268 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -6970,7 +6970,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide, sometimes considered a transition metal",
-		"atomic_weight": "138.90547(7)",
+		"atomic_weight": "138.90547",
 		"electron_configuration": "[Xe] 5d1 6s2",
 		"per_shell": "2, 8, 18, 18, 9, 2",
 		"color": "",
@@ -6993,7 +6993,7 @@
 			"1067 kJ/mol",
 			"1850.3 kJ/mol"
 		],
-		"covalent_radius": "207",
+		"covalent_radius": "207 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7077,7 +7077,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "140.116(1)",
+		"atomic_weight": "140.116",
 		"electron_configuration": "[Xe] 4f1 5d1 6s2",
 		"per_shell": "2, 8, 18, 19, 9, 2",
 		"color": "",
@@ -7098,7 +7098,7 @@
 		"ionization_energies": [
 			""
 		],
-		"covalent_radius": "204",
+		"covalent_radius": "204 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centred cubic (fcc), ?-Ce",
 		"speed_of_sound": "",
@@ -7219,7 +7219,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "140.90766(2)",
+		"atomic_weight": "140.90766",
 		"electron_configuration": "[Xe] 4f3 6s2",
 		"per_shell": "2, 8, 18, 21, 8, 2",
 		"color": "",
@@ -7242,7 +7242,7 @@
 			"1020 kJ/mol",
 			"2086 kJ/mol"
 		],
-		"covalent_radius": "203",
+		"covalent_radius": "203 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7326,7 +7326,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "144.242(3)",
+		"atomic_weight": "144.242",
 		"electron_configuration": "[Xe] 4f4 6s2",
 		"per_shell": "2, 8, 18, 22, 8, 2",
 		"color": "",
@@ -7349,7 +7349,7 @@
 			"1040 kJ/mol",
 			"2130 kJ/mol"
 		],
-		"covalent_radius": "201",
+		"covalent_radius": "201 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7457,7 +7457,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "[145]",
+		"atomic_weight": "145",
 		"electron_configuration": "[Xe] 4f5 6s2",
 		"per_shell": "2, 8, 18, 23, 8, 2",
 		"color": "",
@@ -7480,7 +7480,7 @@
 			"1050 kJ/mol",
 			"2150 kJ/mol"
 		],
-		"covalent_radius": "199",
+		"covalent_radius": "199 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -7565,7 +7565,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "150.36(2)",
+		"atomic_weight": "150.36",
 		"electron_configuration": "[Xe] 4f6 6s2",
 		"per_shell": "2, 8, 18, 24, 8, 2",
 		"color": "",
@@ -7588,7 +7588,7 @@
 			"1070 kJ/mol",
 			"2260 kJ/mol"
 		],
-		"covalent_radius": "198",
+		"covalent_radius": "198 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -7724,7 +7724,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "151.964(1)",
+		"atomic_weight": "151.964",
 		"electron_configuration": "[Xe] 4f7 6s2",
 		"per_shell": "2, 8, 18, 25, 8, 2",
 		"color": "",
@@ -7747,7 +7747,7 @@
 			"1085 kJ/mol",
 			"2404 kJ/mol"
 		],
-		"covalent_radius": "198",
+		"covalent_radius": "198 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -7852,7 +7852,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "157.25(3)",
+		"atomic_weight": "157.25",
 		"electron_configuration": "[Xe] 4f7 5d1 6s2",
 		"per_shell": "2, 8, 18, 25, 9, 2",
 		"color": "",
@@ -7875,7 +7875,7 @@
 			"1170 kJ/mol",
 			"1990 kJ/mol"
 		],
-		"covalent_radius": "196",
+		"covalent_radius": "196 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -7996,7 +7996,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "158.92535(2)",
+		"atomic_weight": "158.92535",
 		"electron_configuration": "[Xe] 4f9 6s2",
 		"per_shell": "2, 8, 18, 27, 8, 2",
 		"color": "",
@@ -8019,7 +8019,7 @@
 			"1110 kJ/mol",
 			"2114 kJ/mol"
 		],
-		"covalent_radius": "194",
+		"covalent_radius": "194 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8103,7 +8103,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "162.500(1)",
+		"atomic_weight": "162.500",
 		"electron_configuration": "[Xe] 4f10 6s2",
 		"per_shell": "2, 8, 18, 28, 8, 2",
 		"color": "",
@@ -8126,7 +8126,7 @@
 			"1130 kJ/mol",
 			"2200 kJ/mol"
 		],
-		"covalent_radius": "192",
+		"covalent_radius": "192 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8239,7 +8239,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "164.93033(2)",
+		"atomic_weight": "164.93033",
 		"electron_configuration": "[Xe] 4f11 6s2",
 		"per_shell": "2, 8, 18, 29, 8, 2",
 		"color": "",
@@ -8262,7 +8262,7 @@
 			"1140 kJ/mol",
 			"2204 kJ/mol"
 		],
-		"covalent_radius": "192",
+		"covalent_radius": "192 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8360,7 +8360,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "167.259(3)",
+		"atomic_weight": "167.259",
 		"electron_configuration": "[Xe] 4f12 6s2",
 		"per_shell": "2, 8, 18, 30, 8, 2",
 		"color": "",
@@ -8383,7 +8383,7 @@
 			"1150 kJ/mol",
 			"2194 kJ/mol"
 		],
-		"covalent_radius": "189",
+		"covalent_radius": "189 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8518,7 +8518,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "168.93422(2)",
+		"atomic_weight": "168.93422",
 		"electron_configuration": "[Xe] 4f13 6s2",
 		"per_shell": "2, 8, 18, 31, 8, 2",
 		"color": "",
@@ -8541,7 +8541,7 @@
 			"1160 kJ/mol",
 			"2285 kJ/mol"
 		],
-		"covalent_radius": "190",
+		"covalent_radius": "190 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8639,7 +8639,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 6,
 		"element_category": "lanthanide",
-		"atomic_weight": "173.045(10)",
+		"atomic_weight": "173.04510",
 		"electron_configuration": "[Xe] 4f14 6s2",
 		"per_shell": "2, 8, 18, 32, 8, 2",
 		"color": "",
@@ -8662,7 +8662,7 @@
 			"1174.8 kJ/mol",
 			"2417 kJ/mol"
 		],
-		"covalent_radius": "187",
+		"covalent_radius": "187 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -8796,7 +8796,7 @@
 		"group_block": "group n/a, d-block",
 		"period": 6,
 		"element_category": "lanthanide, sometimes considered a transition metal",
-		"atomic_weight": "174.9668(1)",
+		"atomic_weight": "174.9668",
 		"electron_configuration": "[Xe] 6s2 4f14 5d1",
 		"per_shell": "2, 8, 18, 32, 9, 2",
 		"color": "",
@@ -8819,7 +8819,7 @@
 			"1340 kJ/mol",
 			"2022.3 kJ/mol"
 		],
-		"covalent_radius": "187",
+		"covalent_radius": "187 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -8910,7 +8910,7 @@
 		"group_block": "group 4, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "178.49(2)",
+		"atomic_weight": "178.49",
 		"electron_configuration": "[Xe] 4f14 5d2 6s2",
 		"per_shell": "2, 8, 18, 32, 10, 2",
 		"color": "",
@@ -8933,7 +8933,7 @@
 			"1440 kJ/mol",
 			"2250 kJ/mol"
 		],
-		"covalent_radius": "175",
+		"covalent_radius": "175 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -9061,7 +9061,7 @@
 		"group_block": "group 5, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "180.94788(2)",
+		"atomic_weight": "180.94788",
 		"electron_configuration": "[Xe] 4f14 5d3 6s2",
 		"per_shell": "2, 8, 18, 32, 11, 2",
 		"color": "",
@@ -9083,7 +9083,7 @@
 			"761 kJ/mol",
 			"1500 kJ/mol"
 		],
-		"covalent_radius": "170",
+		"covalent_radius": "170 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "tetragonal, ?-Ta",
 		"speed_of_sound": "",
@@ -9194,7 +9194,7 @@
 		"group_block": "group 6, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "183.84(1)",
+		"atomic_weight": "183.84",
 		"electron_configuration": "[Xe] 4f14 5d4 6s2",
 		"per_shell": "2, 8, 18, 32, 12, 2",
 		"color": "",
@@ -9216,7 +9216,7 @@
 			"770 kJ/mol",
 			"1700 kJ/mol"
 		],
-		"covalent_radius": "162",
+		"covalent_radius": "162 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -9324,7 +9324,7 @@
 		"group_block": "group 7, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "186.207(1)",
+		"atomic_weight": "186.207",
 		"electron_configuration": "[Xe] 4f14 5d5 6s2",
 		"per_shell": "2, 8, 18, 32, 13, 2",
 		"color": "",
@@ -9348,7 +9348,7 @@
 			"2510 kJ/mol",
 			""
 		],
-		"covalent_radius": "151",
+		"covalent_radius": "151 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -9426,7 +9426,7 @@
 		"group_block": "group 8, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "190.23(3)",
+		"atomic_weight": "190.23",
 		"electron_configuration": "[Xe] 4f14 5d6 6s2",
 		"per_shell": "2, 8, 18, 32, 14, 2",
 		"color": "",
@@ -9448,7 +9448,7 @@
 			"840 kJ/mol",
 			"1600 kJ/mol"
 		],
-		"covalent_radius": "144",
+		"covalent_radius": "144 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -9582,7 +9582,7 @@
 		"group_block": "group 9, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "192.217(3)",
+		"atomic_weight": "192.217",
 		"electron_configuration": "[Xe] 4f14 5d7 6s2",
 		"per_shell": "2, 8, 18, 32, 15, 2",
 		"color": "",
@@ -9604,7 +9604,7 @@
 			"880 kJ/mol",
 			"1600 kJ/mol"
 		],
-		"covalent_radius": "141",
+		"covalent_radius": "141 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -9747,7 +9747,7 @@
 		"group_block": "group 10, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "195.084(9)",
+		"atomic_weight": "195.084",
 		"electron_configuration": "[Xe] 4f14 5d9 6s1",
 		"per_shell": "2, 8, 18, 32, 17, 1",
 		"color": "",
@@ -9769,7 +9769,7 @@
 			"870 kJ/mol",
 			"1791 kJ/mol"
 		],
-		"covalent_radius": "136",
+		"covalent_radius": "136 pm",
 		"van_der_waals_radius": "175 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -9876,7 +9876,7 @@
 		"group_block": "group 11, d-block",
 		"period": 6,
 		"element_category": "transition metal",
-		"atomic_weight": "196.966569(5)",
+		"atomic_weight": "196.966569",
 		"electron_configuration": "[Xe] 4f14 5d10 6s1",
 		"per_shell": "2, 8, 18, 32, 18, 1",
 		"color": "",
@@ -9898,7 +9898,7 @@
 			"890.1 kJ/mol",
 			"1980 kJ/mol"
 		],
-		"covalent_radius": "136",
+		"covalent_radius": "136 pm",
 		"van_der_waals_radius": "166 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -9995,7 +9995,7 @@
 		"group_block": "group 12, d-block",
 		"period": 6,
 		"element_category": "transition metal, alternatively considered a post-transition metal",
-		"atomic_weight": "200.592(3)",
+		"atomic_weight": "200.592",
 		"electron_configuration": "[Xe] 4f14 5d10 6s2",
 		"per_shell": "2, 8, 18, 32, 18, 2",
 		"color": "",
@@ -10018,7 +10018,7 @@
 			"1810 kJ/mol",
 			"3300 kJ/mol"
 		],
-		"covalent_radius": "132",
+		"covalent_radius": "132 pm",
 		"van_der_waals_radius": "155 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "liquid: 1451.4 m/s (at 20 �C)",
@@ -10175,7 +10175,7 @@
 			"1971 kJ/mol",
 			"2878 kJ/mol"
 		],
-		"covalent_radius": "145",
+		"covalent_radius": "145 pm",
 		"van_der_waals_radius": "196 pm",
 		"crystal_structure": "hexagonal close-packed (hcp)",
 		"speed_of_sound": "",
@@ -10258,7 +10258,7 @@
 		"group_block": "group 14 (carbon group), p-block",
 		"period": 6,
 		"element_category": "post-transition metal",
-		"atomic_weight": "207.2(1)",
+		"atomic_weight": "207.2",
 		"electron_configuration": "[Xe] 4f14 5d10 6s2 6p2",
 		"per_shell": "2, 8, 18, 32, 18, 4",
 		"color": "",
@@ -10281,7 +10281,7 @@
 			"1450.5 kJ/mol",
 			"3081.5 kJ/mol"
 		],
-		"covalent_radius": "146",
+		"covalent_radius": "146 pm",
 		"van_der_waals_radius": "202 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -10390,7 +10390,7 @@
 		"group_block": "group 15 (pnictogens), p-block",
 		"period": 6,
 		"element_category": "post-transition metal",
-		"atomic_weight": "208.98040(1)",
+		"atomic_weight": "208.98040",
 		"electron_configuration": "[Xe] 4f14 5d10 6s2 6p3",
 		"per_shell": "2, 8, 18, 32, 18, 5",
 		"color": "",
@@ -10414,7 +10414,7 @@
 			"2466 kJ/mol",
 			""
 		],
-		"covalent_radius": "148",
+		"covalent_radius": "148 pm",
 		"van_der_waals_radius": "207 pm",
 		"crystal_structure": "rhombohedral",
 		"speed_of_sound": "",
@@ -10513,7 +10513,7 @@
 		"group_block": "group 16 (chalcogens), p-block",
 		"period": 6,
 		"element_category": "post-transition metal, but this status is disputed",
-		"atomic_weight": "(209)",
+		"atomic_weight": "209",
 		"electron_configuration": "[Xe] 4f14 5d10 6s2 6p4",
 		"per_shell": "2, 8, 18, 32, 18, 6",
 		"color": "",
@@ -10534,7 +10534,7 @@
 		"ionization_energies": [
 			"812.1 kJ/mol"
 		],
-		"covalent_radius": "140",
+		"covalent_radius": "140 pm",
 		"van_der_waals_radius": "197 pm",
 		"crystal_structure": "rhombohedral, ?-Po",
 		"speed_of_sound": "",
@@ -10617,7 +10617,7 @@
 		"group_block": "group 17 (halogens), p-block",
 		"period": 6,
 		"element_category": "metalloid, sometimes classified as a nonmetal, or a metal",
-		"atomic_weight": "(210)",
+		"atomic_weight": "210",
 		"electron_configuration": "[Xe] 4f14 5d10 6s2 6p5",
 		"per_shell": "2, 8, 18, 32, 18, 7",
 		"color": "",
@@ -10638,7 +10638,7 @@
 		"ionization_energies": [
 			"899.003 kJ/mol"
 		],
-		"covalent_radius": "150",
+		"covalent_radius": "150 pm",
 		"van_der_waals_radius": "202 pm",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -10720,7 +10720,7 @@
 		"group_block": "group 18 (noble gases), p-block",
 		"period": 6,
 		"element_category": "noble gas",
-		"atomic_weight": "(222)",
+		"atomic_weight": "222",
 		"electron_configuration": "[Xe] 4f14 5d10 6s2 6p6",
 		"per_shell": "2, 8, 18, 32, 18, 8",
 		"color": "",
@@ -10741,7 +10741,7 @@
 		"ionization_energies": [
 			"1037 kJ/mol"
 		],
-		"covalent_radius": "150",
+		"covalent_radius": "150 pm",
 		"van_der_waals_radius": "220 pm",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -10830,7 +10830,7 @@
 		"group_block": "group 1 (alkali metals), s-block",
 		"period": 7,
 		"element_category": "alkali metal",
-		"atomic_weight": "(223)",
+		"atomic_weight": "223",
 		"electron_configuration": "[Rn] 7s1",
 		"per_shell": "2, 8, 18, 32, 18, 8, 1",
 		"color": "",
@@ -10851,7 +10851,7 @@
 		"ionization_energies": [
 			"393 kJ/mol"
 		],
-		"covalent_radius": "260",
+		"covalent_radius": "260 pm",
 		"van_der_waals_radius": "348 pm (extrapolated)",
 		"crystal_structure": "body-centered cubic (bcc), (extrapolated)",
 		"speed_of_sound": "",
@@ -10932,7 +10932,7 @@
 		"group_block": "group 2 (alkaline earth metals), s-block",
 		"period": 7,
 		"element_category": "alkaline earth metal",
-		"atomic_weight": "(226)",
+		"atomic_weight": "226",
 		"electron_configuration": "[Rn] 7s2",
 		"per_shell": "2, 8, 18, 32, 18, 8, 2",
 		"color": "",
@@ -10954,7 +10954,7 @@
 			"509.3 kJ/mol",
 			"979.0 kJ/mol"
 		],
-		"covalent_radius": "221",
+		"covalent_radius": "221 pm",
 		"van_der_waals_radius": "283 pm",
 		"crystal_structure": "body-centered cubic (bcc)",
 		"speed_of_sound": "",
@@ -11050,7 +11050,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide, sometimes considered a transition metal",
-		"atomic_weight": "(227)",
+		"atomic_weight": "227",
 		"electron_configuration": "[Rn] 6d1 7s2",
 		"per_shell": "2, 8, 18, 32, 18, 9, 2",
 		"color": "",
@@ -11074,7 +11074,7 @@
 			"1900 kJ/mol",
 			""
 		],
-		"covalent_radius": "215",
+		"covalent_radius": "215 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -11148,137 +11148,6 @@
 		"desc": "Actinium lacks industrial utility because of its rarity, its high price, and the danger posed by its radioactivity."
 	},
 	{
-		"number": 90,
-		"name": "Thorium",
-		"symbol": "Th",
-		"name_symbol": "thorium, Th",
-		"pronunciation": "/????ri?m/, THAWR-ee-?m",
-		"appearance": "silvery, often with black tarnish",
-		"atomic_number": 90,
-		"group_block": "group n/a, f-block",
-		"period": 7,
-		"element_category": "actinide",
-		"atomic_weight": "232.0377(4)",
-		"electron_configuration": "[Rn] 6d2 7s2",
-		"per_shell": "2, 8, 18, 32, 18, 10, 2",
-		"color": "",
-		"phase": "solid",
-		"melting_point": "2023 K (1750 °C, 3182 °F)",
-		"boiling_point": "5061 K (4788 °C, 8650 °F)",
-		"density_at_stp": "",
-		"when_liquid_at_mp": "",
-		"when_liquid_at_bp": "",
-		"triple_point": "",
-		"critical_point": "",
-		"heat_of_fusion": "13.81 kJ/mol",
-		"heat_of_vaporization": "",
-		"molar_heat_capacity": "26.230 J/(mol�K)",
-		"p_(pa)": "vapour pressure, P (Pa), 1, 10, 100, 1 k, 10 k, 100 k, at T (K), 2633, 2907, 3248, 3683, 4259, 5055",
-		"oxidation_states": "4, 3, 2, 1",
-		"electronegativity": 1.3,
-		"ionization_energies": [
-			""
-		],
-		"covalent_radius": "206",
-		"van_der_waals_radius": "",
-		"crystal_structure": "face-centred cubic (fcc)",
-		"speed_of_sound": "",
-		"thermal_conductivity": "54.0 W/(m�K)",
-		"magnetic_ordering": "paramagnetic",
-		"cas_number": "7440-29-1",
-		"discovery": "J�ns Jakob Berzelius (1829)",
-		"named_by": "",
-		"iso": [
-			{
-				"isotope": " 227Th",
-				"abundance": " trace",
-				"halfLife": " 18.68 d",
-				"decayEnergy": " 6.038",
-				"decayProduct": " 5.978"
-			},
-			{
-				"isotope": " 228Th",
-				"abundance": " trace",
-				"halfLife": " 1.9116 y",
-				"decayEnergy": " 5.520",
-				"decayProduct": " 224Ra"
-			},
-			{
-				"isotope": " 229Th",
-				"abundance": " trace",
-				"halfLife": " 7917 y",
-				"decayEnergy": " 5.168",
-				"decayProduct": " 225Ra"
-			},
-			{
-				"isotope": " 230Th",
-				"abundance": " 0.02%",
-				"halfLife": " 75400 y",
-				"decayEnergy": " 4.770",
-				"decayProduct": " 226Ra"
-			},
-			{
-				"isotope": " 231Th",
-				"abundance": " trace",
-				"halfLife": " 25.5 h",
-				"decayEnergy": " 0.39",
-				"decayProduct": " 231Pa"
-			},
-			{
-				"isotope": " 232Th",
-				"abundance": " 99.98%",
-				"halfLife": " 1.405 x 10<sup>1.405�</sup> y",
-				"decayEnergy": " 4.083",
-				"decayProduct": " 228Ra"
-			},
-			{
-				"isotope": " 234Th",
-				"abundance": " trace",
-				"halfLife": " 24.1 d",
-				"decayEnergy": " 0.27",
-				"decayProduct": " 234Pa"
-			}
-		],
-		"at_t_(k)": 2633,
-		"naming": "after Thor, the Norse god of thunder",
-		"first_isolation": "",
-		"density_near_rt": "11.7 g/cm3",
-		"atomic_radius": "179.8 pm",
-		"speed_of_sound_thin_rod": "2490 m/s (at 20 �C)",
-		"thermal_expansion": "11.0 �m/(m�K) (at 25 �C)",
-		"electrical_resistivity": "157 n?�m (at 0 �C)",
-		"youngs_modulus": "79 GPa",
-		"shear_modulus": "31 GPa",
-		"bulk_modulus": "54 GPa",
-		"mohs_hardness": "3",
-		"brinell_hardness": "390�1500 MPa",
-		"poisson_ratio": "0.27",
-		"vickers_hardness": "295�685 MPa",
-		"allotropes": "",
-		"density_when_liquid_at_mp": "",
-		"sublimation_point": "",
-		"recognized_as_an_element_by": "",
-		"heat_of_vaporisation": "514 kJ/mol",
-		"ionisation_energies": [
-			""
-		],
-		"prediction": "",
-		"discovery_and_first_isolation": "",
-		"alternative_name": "",
-		"band_gap": "",
-		"recognised_as_an_element_by": "",
-		"curie_point": "",
-		"recognized_as_a_unique_metal_by": "",
-		"recognized_as_a_distinct_element_by": "",
-		"thermal_diffusivity": "",
-		"tensile_strength": "",
-		"molar_volume": "",
-		"proposed_formal_name": "",
-		"alternative_names": "",
-		"group": "n/a",
-		"desc": "Thorium’s first practical use was as a fuel for incandescent gas mantles in 1885.\n"
-	},
-	{
 		"number": 91,
 		"name": "Protactinium",
 		"symbol": "Pa",
@@ -11289,7 +11158,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "231.03588(2)",
+		"atomic_weight": "231.03588",
 		"electron_configuration": "[Rn] 5f2 6d1 7s2",
 		"per_shell": "2, 8, 18, 32, 20, 9, 2",
 		"color": "",
@@ -11310,7 +11179,7 @@
 		"ionization_energies": [
 			"568 kJ/mol"
 		],
-		"covalent_radius": "200",
+		"covalent_radius": "200 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "tetragonal",
 		"speed_of_sound": "",
@@ -11399,7 +11268,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Protactinium’s primary use is in radiometric dating, and despite its rarity in natural occurrence, it is produced as a byproduct of thorium in nuclear reactors."
 	},
 	{
 		"number": 92,
@@ -11412,7 +11282,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "238.02891(3)",
+		"atomic_weight": "238.02891",
 		"electron_configuration": "[Rn] 5f3 6d1 7s2",
 		"per_shell": "2, 8, 18, 32, 21, 9, 2",
 		"color": "",
@@ -11434,7 +11304,7 @@
 			"597.6 kJ/mol",
 			"1420 kJ/mol"
 		],
-		"covalent_radius": "196",
+		"covalent_radius": "196 pm",
 		"van_der_waals_radius": "186 pm",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -11524,7 +11394,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Uranium is an actinide used in high-density penetrators and vehicle armor in the military sector."
 	},
 	{
 		"number": 93,
@@ -11537,7 +11408,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(237)",
+		"atomic_weight": "237",
 		"electron_configuration": "[Rn] 5f4 6d1 7s2",
 		"per_shell": "2, 8, 18, 32, 22, 9, 2",
 		"color": "",
@@ -11558,7 +11429,7 @@
 		"ionization_energies": [
 			"604.5 kJ/mol"
 		],
-		"covalent_radius": "190",
+		"covalent_radius": "190 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "orthorhombic",
 		"speed_of_sound": "",
@@ -11633,7 +11504,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Neptunium is the first in the series of transuranic elements (93-118), all of which are very unstable and rapidly decay into other elements."
 	},
 	{
 		"number": 94,
@@ -11646,7 +11518,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(244)",
+		"atomic_weight": "244",
 		"electron_configuration": "[Rn] 5f6 7s2",
 		"per_shell": "2, 8, 18, 32, 24, 8, 2",
 		"color": "",
@@ -11667,7 +11539,7 @@
 		"ionization_energies": [
 			"584.7 kJ/mol"
 		],
-		"covalent_radius": "187",
+		"covalent_radius": "187 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "monoclinic",
 		"speed_of_sound": "2260 m/s",
@@ -11756,7 +11628,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Isotopes of plutonium are valuable fissure components in nuclear weaponry. The atomic bomb dropped on Nagasaki, Fat Man, had a plutonium core."
 	},
 	{
 		"number": 95,
@@ -11769,7 +11642,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(243)",
+		"atomic_weight": "243",
 		"electron_configuration": "[Rn] 5f7 7s2",
 		"per_shell": "2, 8, 18, 32, 25, 8, 2",
 		"color": "",
@@ -11790,7 +11663,7 @@
 		"ionization_energies": [
 			"578 kJ/mol"
 		],
-		"covalent_radius": "180",
+		"covalent_radius": "180 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -11864,7 +11737,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Americium, for America, is named for its sharing the same periodic group as Europium, for Europe."
 	},
 	{
 		"number": 96,
@@ -11877,7 +11751,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(247)",
+		"atomic_weight": "247",
 		"electron_configuration": "[Rn] 5f7 6d1 7s2",
 		"per_shell": "2, 8, 18, 32, 25, 9, 2",
 		"color": "",
@@ -11898,7 +11772,7 @@
 		"ionization_energies": [
 			"581 kJ/mol"
 		],
-		"covalent_radius": "169",
+		"covalent_radius": "169 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -12001,7 +11875,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Curium, named for Marie and Pierre Curie, is used primarily for X-ray spectrometers on space probes."
 	},
 	{
 		"number": 97,
@@ -12014,7 +11889,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(247)",
+		"atomic_weight": "247",
 		"electron_configuration": "[Rn] 5f9 7s2",
 		"per_shell": "2, 8, 18, 32, 27, 8, 2",
 		"color": "",
@@ -12035,7 +11910,7 @@
 		"ionization_energies": [
 			"601 kJ/mol"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "170 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -12117,7 +11992,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Berkelium’s unique nuclear fission properties lead it to perform poorly in nuclear reactors compared to sibling elements like curium and californium."
 	},
 	{
 		"number": 98,
@@ -12130,7 +12006,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(251)",
+		"atomic_weight": "251",
 		"electron_configuration": "[Rn] 5f10 7s2",
 		"per_shell": "2, 8, 18, 32, 28, 8, 2",
 		"color": "",
@@ -12151,7 +12027,7 @@
 		"ionization_energies": [
 			"608 kJ/mol"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "200 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "double hexagonal close-packed (dhcp)",
 		"speed_of_sound": "",
@@ -12246,7 +12122,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Californium does not occur naturally; its only presence in the environment is in traces near chemical or medical facilities which expel it."
 	},
 	{
 		"number": 99,
@@ -12259,7 +12136,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(252)",
+		"atomic_weight": "252",
 		"electron_configuration": "[Rn] 5f11 7s2",
 		"per_shell": "2, 8, 18, 32, 29, 8, 2",
 		"color": "",
@@ -12280,7 +12157,7 @@
 		"ionization_energies": [
 			"619 kJ/mol"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "200 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc)",
 		"speed_of_sound": "",
@@ -12354,7 +12231,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Einsteinium, along with fermium, was first discovered in the fallout of American nuclear bomb tests immediately following the Second World War."
 	},
 	{
 		"number": 100,
@@ -12367,7 +12245,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(257)",
+		"atomic_weight": "257",
 		"electron_configuration": "[Rn] 5f12 7s2",
 		"per_shell": "2, 8, 18, 32, 30, 8, 2",
 		"color": "",
@@ -12388,7 +12266,7 @@
 		"ionization_energies": [
 			"627 kJ/mol  (estimated)"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "200 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -12462,7 +12340,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Fermium, along with einsteinium, was first discovered in the fallout of American nuclear bomb tests immediately following the Second World War."
 	},
 	{
 		"number": 101,
@@ -12475,7 +12354,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "(258)",
+		"atomic_weight": "258",
 		"electron_configuration": "[Rn] 5f13 7s2",
 		"per_shell": "2, 8, 18, 32, 31, 8, 2",
 		"color": "",
@@ -12496,7 +12375,7 @@
 		"ionization_energies": [
 			"635 kJ/mol  (estimated)"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "200 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -12563,7 +12442,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "The American team responsible for synthesizing mendelevium had to ask the Cold War-era United States government for permission to name the element after Dmitri Mendeleev, a Russian."
 	},
 	{
 		"number": 102,
@@ -12576,7 +12456,7 @@
 		"group_block": "group n/a, f-block",
 		"period": 7,
 		"element_category": "actinide",
-		"atomic_weight": "[259]",
+		"atomic_weight": "259",
 		"electron_configuration": "[Rn] 5f14 7s2",
 		"per_shell": "2, 8, 18, 32, 32, 8, 2",
 		"color": "",
@@ -12599,7 +12479,7 @@
 			"1254.3 kJ/mol",
 			"2605.1 kJ/mol  (all estimated)"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "200 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -12682,7 +12562,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "The identification of nobelium, and the right to name it, was disputed by various international teams; “nobelium” was originally meant as a placeholder, but only nearly three decades later in 1994 was identification credit attributed to Soviet scientists (but the name remained)."
 	},
 	{
 		"number": 103,
@@ -12695,7 +12576,7 @@
 		"group_block": "group n/a, d-block",
 		"period": 7,
 		"element_category": "actinide, sometimes considered a transition metal",
-		"atomic_weight": "[266]",
+		"atomic_weight": "266",
 		"electron_configuration": "[Rn] 5f14 7s2 7p1",
 		"per_shell": "2, 8, 18, 32, 32, 8, 3",
 		"color": "",
@@ -12718,7 +12599,7 @@
 			"1428.0 kJ/mol (predicted)",
 			"2219.1 kJ/mol (predicted)"
 		],
-		"covalent_radius": "",
+		"covalent_radius": "200 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -12819,7 +12700,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Lawrencium was named for Ernest Lawrence, who invented the cyclotron, a chemical bombardment device responsible for the synthesis of some artificial transuranic elements."
 	},
 	{
 		"number": 104,
@@ -12863,9 +12745,9 @@
 		"period": 7,
 		"group_block": "group 4, d-block",
 		"electron_configuration": "[Rn] 5f14 6d2 7s2[1][2]",
-		"atomic_weight": "(267)",
+		"atomic_weight": "267",
 		"atomic_radius": "150 pm",
-		"covalent_radius": "",
+		"covalent_radius": "150 pm pm",
 		"ionization_energies": [
 			"579.9 kJ/mol",
 			"1389.4 kJ/mol",
@@ -12883,7 +12765,8 @@
 			"",
 			""
 		],
-		"group": "4"
+		"group": "4",
+		"desc": "Rutherfordium was the center of a naming dispute between American scientists at Lawrence Berkeley and Russian scientists at Dubna, which would go unsettled until the Russian team conceded to end the dispute."
 	},
 	{
 		"number": 105,
@@ -12896,7 +12779,7 @@
 		"group_block": "group 5, d-block",
 		"period": 7,
 		"element_category": "transition metal",
-		"atomic_weight": "[268]",
+		"atomic_weight": 268,
 		"electron_configuration": "[Rn] 5f14 6d3 7s2 ",
 		"per_shell": "2, 8, 18, 32, 32, 11, 2",
 		"color": "",
@@ -12920,7 +12803,7 @@
 			"2378.4 kJ/mol",
 			""
 		],
-		"covalent_radius": "149",
+		"covalent_radius": "149 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc) (predicted)",
 		"speed_of_sound": "",
@@ -13011,7 +12894,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "5"
+		"group": "5",
+		"desc": "The name “dubnium” was originally chosen as a compromise placeholder for the element that would later be named rutherfordium (Rf) amid a naming dispute."
 	},
 	{
 		"number": 106,
@@ -13024,7 +12908,7 @@
 		"group_block": "group 6, d-block",
 		"period": 7,
 		"element_category": "transition metal",
-		"atomic_weight": "[269]",
+		"atomic_weight": "269",
 		"electron_configuration": "[Rn] 5f14 6d4 7s2 ",
 		"per_shell": "2, 8, 18, 32, 32, 12, 2",
 		"color": "",
@@ -13048,7 +12932,7 @@
 			"2483.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "143",
+		"covalent_radius": "143 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc), (predicted)",
 		"speed_of_sound": "",
@@ -13126,7 +13010,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "6"
+		"group": "6",
+		"desc": "Seaborgium was the center of controversy in the chemist community, because the International Union of Pure and Applied Chemistry (IUPAC) initially rejected the name because its namesake, Glenn Seaborg, was still alive at the time of its discovery."
 	},
 	{
 		"number": 107,
@@ -13139,7 +13024,7 @@
 		"group_block": "group 7, d-block",
 		"period": 7,
 		"element_category": "transition metal",
-		"atomic_weight": "[270]",
+		"atomic_weight": "270",
 		"electron_configuration": "[Rn] 5f14 6d5 7s2 ",
 		"per_shell": "2, 8, 18, 32, 32, 13, 2",
 		"color": "",
@@ -13163,7 +13048,7 @@
 			"2566.5 kJ/mol",
 			""
 		],
-		"covalent_radius": "141",
+		"covalent_radius": "141 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -13248,7 +13133,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "7"
+		"group": "7",
+		"desc": "Bohrium is named for Danish physicist Niels Bohr, recipient of the 1922 Nobel Prize in Physics and considered important for developing the Bohr model of the atom, which conceptualized the concept of electrons switching energy levels."
 	},
 	{
 		"number": 108,
@@ -13261,7 +13147,7 @@
 		"group_block": "group 8, d-block",
 		"period": 7,
 		"element_category": "transition metal",
-		"atomic_weight": "[269]",
+		"atomic_weight": "269",
 		"electron_configuration": "[Rn] 5f14 6d6 7s2 ",
 		"per_shell": "2, 8, 18, 32, 32, 14, 2",
 		"color": "",
@@ -13285,7 +13171,7 @@
 			"2827.0 kJ/mol",
 			""
 		],
-		"covalent_radius": "134",
+		"covalent_radius": "134 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -13363,7 +13249,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "8"
+		"group": "8",
+		"desc": "A Soviet scientist claimed to have discovered naturally-occurring hassium (a synthetic element) in 1963, but a Joint Institute for Nuclear Research investigation in 2004 conducted a worldwide investigation that did not support these claims."
 	},
 	{
 		"number": 109,
@@ -13376,7 +13263,7 @@
 		"group_block": "group 9, d-block",
 		"period": 7,
 		"element_category": "unknown, but probably a transition metal",
-		"atomic_weight": "[278]",
+		"atomic_weight": "278",
 		"electron_configuration": "[Rn] 5f14 6d7 7s2 (calculated)",
 		"per_shell": "2, 8, 18, 32, 32, 15, 2 (predicted)",
 		"color": "",
@@ -13400,7 +13287,7 @@
 			"2904.2 kJ/mol",
 			""
 		],
-		"covalent_radius": "129",
+		"covalent_radius": "129 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "face-centered cubic (fcc), (predicted)",
 		"speed_of_sound": "",
@@ -13471,7 +13358,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "9"
+		"group": "9",
+		"desc": "Meitnerium is incredibly unstable, with its most stable isotope having a half-life of less than eight seconds."
 	},
 	{
 		"number": 110,
@@ -13484,7 +13372,7 @@
 		"group_block": "group 10, d-block",
 		"period": 7,
 		"element_category": "unknown, but probably a transition metal",
-		"atomic_weight": "[281]",
+		"atomic_weight": "281",
 		"electron_configuration": "[Rn] 5f14 6d8 7s2, (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 16, 2 (predicted)",
 		"color": "",
@@ -13508,7 +13396,7 @@
 			"3029.6 kJ/mol",
 			""
 		],
-		"covalent_radius": "128",
+		"covalent_radius": "128 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc), (predicted)",
 		"speed_of_sound": "",
@@ -13572,7 +13460,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "10"
+		"group": "10",
+		"desc": "Darmstadtium is named for Darmstadt, Germany, the site of its synthesis and the synthesis of many other synthetic transuranic elements."
 	},
 	{
 		"number": 111,
@@ -13585,7 +13474,7 @@
 		"group_block": "group 11, d-block",
 		"period": 7,
 		"element_category": "unknown, but probably a transition metal",
-		"atomic_weight": "[282]",
+		"atomic_weight": "282",
 		"electron_configuration": "[Rn] 5f14 6d9 7s2 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 17, 2 (predicted)",
 		"color": "",
@@ -13609,7 +13498,7 @@
 			"3077.9 kJ/mol",
 			""
 		],
-		"covalent_radius": "121",
+		"covalent_radius": "121 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc), (predicted)",
 		"speed_of_sound": "",
@@ -13687,7 +13576,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "11"
+		"group": "11",
+		"desc": "Roentgenium was originally known as unununium (Uuu) under IUPAC professional guidelines, but like other elements outlined in these guidelines, most professionals referred to it numerically (“element 111,” or just “111”)."
 	},
 	{
 		"number": 112,
@@ -13700,7 +13590,7 @@
 		"group_block": "group 12, d-block",
 		"period": 7,
 		"element_category": "transition metal, alternatively considered a post-transition metal",
-		"atomic_weight": "[285]",
+		"atomic_weight": "285",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 2 (predicted)",
 		"color": "",
@@ -13724,7 +13614,7 @@
 			"3164.7 kJ/mol",
 			""
 		],
-		"covalent_radius": "122",
+		"covalent_radius": "122 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "hexagonal close-packed (hcp), (predicted)",
 		"speed_of_sound": "",
@@ -13788,7 +13678,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "12"
+		"group": "12",
+		"desc": "Copernicium’s synthesis by the same Darmstadt team responsible for darmstadtium was contested by the IUPAC, and the team had to retrace experiments and contest apparently-incorrect data in the investigation before their claim was finally recognized in 2009."
 	},
 	{
 		"number": 113,
@@ -13801,7 +13692,7 @@
 		"group_block": "group 13, p-block",
 		"period": 7,
 		"element_category": "unknown, but probably a post-transition metal",
-		"atomic_weight": "[286]",
+		"atomic_weight": "286",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 7p1 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 3 (predicted)",
 		"color": "",
@@ -13825,7 +13716,7 @@
 			"3203.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "172",
+		"covalent_radius": "172 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -13874,12 +13765,13 @@
 		"molar_volume": "",
 		"proposed_formal_name": "nihonium, Nh",
 		"alternative_names": "element 113, eka-thallium",
-		"group": "13"
+		"group": "13",
+		"desc": "Nihonium, named for the Japanese word for “Japan”, was created in 2007 by a Japanese science team at Riken, a research institute spread across seven different campuses on the island."
 	},
 	{
 		"number": 114,
 		"name": "Flerovium",
-		"symbol": "fl",
+		"symbol": "Fl",
 		"name_symbol": "flerovium, Fl",
 		"pronunciation": "/fl??ro?vi?m/, fli-ROH-vee-?m",
 		"appearance": "",
@@ -13887,7 +13779,7 @@
 		"group_block": "group 14 (carbon group), p-block",
 		"period": 7,
 		"element_category": "post-transition metal",
-		"atomic_weight": "[289]",
+		"atomic_weight": "289",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 7p2 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 4 (predicted)",
 		"color": "",
@@ -13911,7 +13803,7 @@
 			"3367.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "171",
+		"covalent_radius": "171 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -13960,7 +13852,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "14"
+		"group": "14",
+		"desc": "Flerovium’s predicted properties suggest similar behavior to that of many noble gases, and it is hypothesized that it may be in a gaseous state under standard conditions (0 degrees Celsius and in a regular pressure environment)."
 	},
 	{
 		"number": 115,
@@ -13973,7 +13866,7 @@
 		"group_block": "group 15 (pnictogens), p-block",
 		"period": 7,
 		"element_category": "unknown, but probably a post-transition metal",
-		"atomic_weight": "[289]",
+		"atomic_weight": "289",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 7p3 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 5 (predicted)",
 		"color": "",
@@ -13997,7 +13890,7 @@
 			"2653.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "156",
+		"covalent_radius": "156 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -14046,7 +13939,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "moscovium, Mc",
 		"alternative_names": "element 115, eka-bismuth",
-		"group": "15"
+		"group": "15",
+		"desc": "In the 1980s and 1990’s prior to its naming, moscovium, or “element 115”, was the center of a conspiracy theory by a man named Bob Lazar, who claimed it functioned as a “gravity wave generator” for flying saucers."
 	},
 	{
 		"number": 116,
@@ -14059,7 +13953,7 @@
 		"group_block": "group 16 (chalcogens), p-block",
 		"period": 7,
 		"element_category": "unknown, but probably a post-transition metal",
-		"atomic_weight": "[293]",
+		"atomic_weight": "293",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 7p4 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 6 (predicted)",
 		"color": "",
@@ -14083,7 +13977,7 @@
 			"2846.3 kJ/mol (predicted)",
 			""
 		],
-		"covalent_radius": "162",
+		"covalent_radius": "162 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -14161,7 +14055,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "16"
+		"group": "16",
+		"desc": "Livermorium was named for the Lawrence Livermore National Laboratory, an American institute which collaborated with Russian chemists in Dubna to synthesize the element."
 	},
 	{
 		"number": 117,
@@ -14174,7 +14069,7 @@
 		"group_block": "group 17, p-block",
 		"period": 7,
 		"element_category": "unknown, but probably a post-transition metal",
-		"atomic_weight": "[294]",
+		"atomic_weight": "294",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 7p5 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 7 (predicted)",
 		"color": "",
@@ -14196,7 +14091,7 @@
 			"742.9 kJ/mol (predicted)",
 			"1785.0�1920.1 kJ/mol (extrapolated)"
 		],
-		"covalent_radius": "156",
+		"covalent_radius": "156 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -14243,7 +14138,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "tennessine, Ts",
 		"alternative_names": "element 117, eka-astatine",
-		"group": "17"
+		"group": "17",
+		"desc": "Tennessine was synthesized in another joint collaboration between American and Russian teams, by fusing berkelium (element 97) and calcium (element 20); the synthesis was almost hampered completely when Russian customs officials refused to receive the cooled berkelium due to paperwork issues."
 	},
 	{
 		"number": 118,
@@ -14256,7 +14152,7 @@
 		"group_block": "group 18, p-block",
 		"period": 7,
 		"element_category": "unknown, but predicted to be a noble gas",
-		"atomic_weight": "[294]",
+		"atomic_weight": "294",
 		"electron_configuration": "[Rn] 5f14 6d10 7s2 7p6 (predicted)",
 		"per_shell": "2, 8, 18, 32, 32, 18, 8 (predicted)",
 		"color": "",
@@ -14278,7 +14174,7 @@
 			"839.4 kJ/mol (predicted)",
 			"1563.1 kJ/mol (predicted)"
 		],
-		"covalent_radius": "157",
+		"covalent_radius": "157 pm pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "",
 		"speed_of_sound": "",
@@ -14324,6 +14220,7 @@
 		"molar_volume": "",
 		"proposed_formal_name": "oganesson, Og",
 		"alternative_names": "element 118, eka-radon",
-		"group": "18"
+		"group": "18",
+		"desc": "Oganesson’s synthesis was initially claimed by Lawrence Berkeley scientists in 2002, but they quietly retracted their claim when they and other independent laboratories could not reproduce the results of the experiment. "
 	}
 ]

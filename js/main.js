@@ -28,8 +28,8 @@ window.addEventListener("load", function() {
 function makeDialog(number) {
     try {
         var data = window.table[number - 1];
-        substitute(atomic, data.number);
-        substitute(mass, data.atomic_weight.split("(")[0]);
+        substitute(atomic, data.atomic_number);
+        substitute(mass, data.atomic_weight);
         substitute(iso, data.iso);
         substitute(electrons, data.electron_configuration);
         substitute(atomicName, data.name);
