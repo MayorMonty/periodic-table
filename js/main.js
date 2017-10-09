@@ -12,7 +12,8 @@ window.addEventListener("load", function() {
         });
     }
     window.dialog = document.querySelector(".element-dialog");
-    window.atomicName   = document.querySelectorAll(".element-data-name")
+    window.atomicName   = document.querySelectorAll(".element-data-name");
+    window.desc   = document.querySelectorAll(".element-data-desc")
     window.atomic = document.querySelectorAll(".element-data-atomic");
     window.mass   = document.querySelectorAll(".element-data-mass");
     window.iso    = document.querySelectorAll(".element-data-iso");
@@ -36,6 +37,8 @@ function makeDialog(number) {
         substitute(ionization, data.ionization_energies);
         substitute(affinity, data.electron_affinity);
         substitute(electronegativity, data.electronegativity);
+        console.log(data.desc);
+        substitute(window.desc, data.desc);
 
         var isotopes = access(data, "iso");
         var table = `<table class="responsive-table bordered">
@@ -121,13 +124,19 @@ function colorBy(trend) {
             display.innerText = "Electronegativity";
             break;
         case "ionization":
-            elementIterate( e => e.style = "" );
+            elementIterate( e => {
+                if(e.dataset.ionization !== "") {
+                    e.style.backgroundColor = `rgb(${Math.round((+e.dataset.ionization.split(" kJ/mol")[0] / 2000) * 238)}, 110, 115)`;
+                } else {
+                    e.style.backgroundColor = "#EEEEEE"
+                }
+            });
             display.innerText = "Ionization Energy";
             break;
         case "affinity":
         elementIterate( e => {
             if(e.dataset.affinity !== "") {
-                e.style.backgroundColor = `rgb(${Math.round((+e.dataset.affinity / 349) * 238)}, 110, 115)`;
+                e.style.backgroundColor = `rgb(${Math.round((+e.dataset.affinity / 328) * 238)}, 110, 115)`;
             } else {
                 e.style.backgroundColor = "#EEEEEE"
             }

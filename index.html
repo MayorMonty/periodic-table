@@ -22,7 +22,13 @@ layout: default
 
 <div class="periodic-table">
   {% for element in site.data.elements %}
-  <div class="element period-{{element.period}} group-{{ element.group_block | replace: "group ", '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" data-element={{ element.number }} data-electronegativity="{{ element.electronegativity }}" data-affinity="{{ element.electron_affinity }}" data-radius="{{ (((element.covalent_radius | replace: '�','.') | replace: 'pm','') | split: ' ')[1] }}">
+  <div 
+      class="element period-{{element.period}} group-{{ element.group_block | replace: "group ", '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" 
+      data-element={{ element.number }} 
+      data-electronegativity="{{ element.electronegativity }}" 
+      data-affinity="{{ element.electron_affinity }}" 
+      data-radius="{{ (((element.covalent_radius | replace: '�','.') | replace: 'pm','') | split: ' ')[1] }}"
+      data-ionization="{{ element.ionization_energies }}">
     <span class="number">{{ element.number }}</span>
     <span class="symbol">{{ element.symbol }}</span>
     <span class="name">{{ element.name }}</span>
@@ -47,6 +53,7 @@ layout: default
       </ul>
     </div>
   <div class="card-content">
+    <div class="element-data-desc">Element</div>
     <table class="responsive-table bordered" id="basic">
       <thead>
         <tr>

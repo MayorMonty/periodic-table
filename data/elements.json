@@ -102,7 +102,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 72.8,
-		"group": "1"
+		"group": "1",
+		"desc": "Hydrogen is an essential element for life. It is present in water and in almost all the molecules in living things. A colourless, odourless gas, It has the lowest density of all gases. Hydrogen can be added to fats and oils, such as peanut oil, through a process called hydrogenation. "
 	},
 	{
 		"number": 2,
@@ -197,7 +198,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "18"
+		"group": "18",
+		"desc": "Helium is one of the noble gases of group O in the periodic table. It's the second lightest element. Helium gas is used to inflate blimps, scientific balloons and party balloons, also to inert shields for arc welding, to pressurize the fuel tanks of liquid fueled rockets and in supersonic wind tunnels."
 	},
 	{
 		"number": 3,
@@ -295,7 +297,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 59.6,
-		"group": "1"
+		"group": "1",
+		"desc": "The most important use of lithium is in rechargeable batteries for mobile phones, laptops, digital cameras and electric vehicles. Lithium is also used in some non-rechargeable batteries for things like heart pacemakers, toys and clocks. Lithium does not occur as the metal in nature, but is found combined in small amounts in nearly all igneous rocks and in the waters of many mineral springs."
 	},
 	{
 		"number": 4,
@@ -403,7 +406,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "2"
+		"group": "2",
+		"desc": "Beryllium is a silvery-white metal. It is relatively soft and has a low density. Beryllium is used in alloys with copper or nickel to make gyroscopes, springs, electrical contacts, spot-welding electrodes and non-sparking tools."
 	},
 	{
 		"number": 5,
@@ -503,7 +507,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 26.7,
-		"group": "13"
+		"group": "13",
+		"desc": "Pure boron is a dark amorphous powder. The most important compounds of boron are boric (or boracic) acid, borax (sodium borate) and boric oxide. These can be found in eye drops, mild antiseptics, washing powders and tile glazes."
 	},
 	{
 		"number": 6,
@@ -616,7 +621,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 153.9,
-		"group": "14"
+		"group": "14",
+		"desc": "There are a number of pure forms of this element including graphite, diamond, fullerenes and graphene. Diamond is a colourless, transparent, crystalline solid and the hardest known material. Graphite is black and shiny but soft. The nano-forms, fullerenes and graphene, appear as black or dark brown, soot-like powders."
 	},
 	{
 		"number": 7,
@@ -716,7 +722,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 7,
-		"group": "15"
+		"group": "15",
+		"desc": "A colourless, odourless gas, it is used to make fertilisers, nitric acid, nylon, dyes and explosives. It is used to make fertilisers, nitric acid, nylon, dyes and explosives, making nitrogen very important in the chemical industry. To make these products, nitrogen must first be reacted with hydrogen to produce ammonia."
 	},
 	{
 		"number": 8,
@@ -821,7 +828,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 141,
-		"group": "16"
+		"group": "16",
+		"desc": "A colourless, odourless gas, and the greatest commercial use of oxygen gas is in the steel industry. Oxygen first appeared in the Earth’s atmosphere around 2 billion years ago, accumulating from the photosynthesis of blue-green algae."
 	},
 	{
 		"number": 9,
@@ -921,7 +929,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 328,
-		"group": "17"
+		"group": "17",
+		"desc": "Very pale yellow-green, and dangerously reactive gas. It is the most reactive of all the elements and quickly attacks all metals, which made it a very useful tool during WWII, which was the first commercial use of fluorine, when developing the atom bomb, and other nuclear energy projects, made it necessary to produce large quantities."
 	},
 	{
 		"number": 10,
@@ -1026,7 +1035,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "18"
+		"group": "18",
+		"desc": "A colourless, odourless gas, neon will not react with any other substance. The largest use of neon is in making the ubiquitous ‘neon signs’ for advertising."
 	},
 	{
 		"number": 11,
@@ -1127,7 +1137,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50.8,
-		"group": "1"
+		"group": "1",
+		"desc": "Sodium is a soft metal that tarnishes within seconds of being exposed to the air, and also reacts vigorously with water. Sodium is used as a heat exchanger in some nuclear reactors, and as a reagent in the chemicals industry"
 	},
 	{
 		"number": 12,
@@ -1233,7 +1244,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "2"
+		"group": "2",
+		"desc": "A silvery-white metal that ignites easily in air and burns with a bright light. Magnesium is used in products that benefit from being lightweight, such as car seats, luggage, laptops, cameras and power tools. It is also added to molten iron and steel to remove sulfur."
 	},
 	{
 		"number": 13,
@@ -1334,7 +1346,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 42.5,
-		"group": "13"
+		"group": "13",
+		"desc": "Aluminium is a silvery-white, lightweight metal. It is soft and malleable. Aluminium is used in a huge variety of products including cans, foils, kitchen utensils, window frames, beer kegs and aeroplane parts. This is because of its particular properties. It has low density, is non-toxic, has a high thermal conductivity, has excellent corrosion resistance and can be easily cast, machined and formed."
 	},
 	{
 		"number": 14,
@@ -1454,7 +1467,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 133.6,
-		"group": "14"
+		"group": "14",
+		"desc": "This element, when ultrapure, is a solid with a blue-grey metallic sheen. Silicon is one of the most useful elements to mankind. Most is used to make alloys including aluminium-silicon and ferrosilicon (iron-silicon). These are used to make dynamo and transformer plates, engine blocks, cylinder heads and machine tools and to deoxidise steel."
 	},
 	{
 		"number": 15,
@@ -1559,7 +1573,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 72,
-		"group": "15"
+		"group": "15",
+		"desc": "The two main forms of phosphorus are white phosphorus and red phosphorus. White phosphorus is a poisonous waxy solid and contact with skin can cause severe burns. It glows in the dark and is spontaneously flammable when exposed to air. Red phosphorus is an amorphous non-toxic solid. White phosphorus is used in flares and incendiary devices. Red phosphorus is in the material stuck on the side of matchboxes, used to strike safety matches against to light them."
 	},
 	{
 		"number": 16,
@@ -1677,7 +1692,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 200,
-		"group": "16"
+		"group": "16",
+		"desc": "here are several allotropes of sulfur. The most common appears as yellow crystals or powder. Sulfur is used in the vulcanisation of black rubber, as a fungicide and in black gunpowder. Most sulfur is, however, used in the production of sulfuric acid to make phosphates for fertilisers."
 	},
 	{
 		"number": 17,
@@ -1777,7 +1793,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 349,
-		"group": "17"
+		"group": "17",
+		"desc": "A yellowy-green dense gas with a choking smell. Chlorine kills bacteria – it is a disinfectant. It is used to treat drinking water and swimming pool water. It is also used to make hundreds of consumer products from paper to paints, and from textiles to insecticides."
 	},
 	{
 		"number": 18,
@@ -1910,7 +1927,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "18"
+		"group": "18",
+		"desc": "Argon is a colourless, odourless gas that is totally inert to other substances. It is used in this way for the production of titanium and other reactive elements. "
 	},
 	{
 		"number": 19,
@@ -2017,7 +2035,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 48.4,
-		"group": "1"
+		"group": "1",
+		"desc": "A soft, silvery metal that tarnishes in air within minutes. The greatest demand for potassium compounds is in fertilisers. Potassium is essential to life. Potassium ions are found in all cells. It is important for maintaining fluid and electrolyte balance."
 	},
 	{
 		"number": 20,
@@ -2163,7 +2182,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 2.37,
-		"group": "2"
+		"group": "2",
+		"desc": "Calcium is a silvery-white, soft metal that tarnishes rapidly in air and reacts with water. Calcium is essential to all living things, particularly for the growth of healthy teeth and bones. Calcium phosphate is the main component of bone. The average human contains about 1 kilogram of calcium."
 	},
 	{
 		"number": 21,
@@ -2297,7 +2317,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 18.1,
-		"group": "3"
+		"group": "3",
+		"desc": "A silvery metal that tarnishes in air, burns easily and reacts with water. Scandium is mainly used for research purposes."
 	},
 	{
 		"number": 22,
@@ -2422,7 +2443,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 7.6,
-		"group": "4"
+		"group": "4",
+		"desc": "A hard, shiny and strong metal. Titanium is as strong as steel but much less dense. Titanium metal connects well with bone, so it has found surgical applications such as in joint replacements (especially hip joints) and tooth implants. Titanium has no known biological role, and is non-toxic."
 	},
 	{
 		"number": 23,
@@ -2537,7 +2559,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50.6,
-		"group": "5"
+		"group": "5",
+		"desc": "A silvery metal that resists corrosion. About 80% of the vanadium produced is used as a steel additive. Vanadium is essential to some species, including humans, although we need very little. We take in just 0.01 milligrams each day, and this is more than sufficient for our needs."
 	},
 	{
 		"number": 24,
@@ -2656,7 +2679,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 64.3,
-		"group": "6"
+		"group": "6",
+		"desc": "A hard, silvery metal with a blue tinge. About 90% of all leather is tanned using chrome. However, the waste effluent is toxic so alternatives are being investigated. Chromium is an essential trace element for humans because it helps us to use glucose."
 	},
 	{
 		"number": 25,
@@ -2771,7 +2795,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "7"
+		"group": "7",
+		"desc": "A hard, brittle, silvery metal. Manganese is too brittle to be of much use as a pure metal. It is mainly used in alloys, such as steel. Drinks cans are made of an alloy of aluminium with 1.5% manganese, to improve resistance to corrosion. Manganese is an essential element in all known living organisms, because many types of enzymes contain manganese."
 	},
 	{
 		"number": 26,
@@ -2904,7 +2929,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 15.7,
-		"group": "8"
+		"group": "8",
+		"desc": "A shiny, greyish metal that rusts in damp air. Iron is an enigma – it rusts easily, yet it is the most important of all metals; 90% of all metal that is refined today is iron."
 	},
 	{
 		"number": 27,
@@ -3026,7 +3052,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 63.7,
-		"group": "9"
+		"group": "9",
+		"desc": "A lustrous, silvery-blue metal, and is magnetic. Cobalt, like iron, can be magnetised and so is used to make magnets. The amount we need is very small, and the body contains only about 1 milligram."
 	},
 	{
 		"number": 28,
@@ -3158,7 +3185,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 112,
-		"group": "10"
+		"group": "10",
+		"desc": "A silvery metal that resists corrosion even at high temperatures. It is mainly used in making alloys such as stainless steel. Nickel is used in batteries, and has a long history of being used in coins."
 	},
 	{
 		"number": 29,
@@ -3272,7 +3300,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 118.4,
-		"group": "11"
+		"group": "11",
+		"desc": "A reddish-gold metal that is easily worked and drawn into wires. Historically, copper was the first metal to be worked by people. The discovery that it could be hardened with a little tin to form the alloy bronze gave the name to the Bronze Age. Copper is an essential element. An adult human needs around 1.2 milligrams of copper a day, to help enzymes transfer energy in cells. Excess copper is toxic. (Wilson’s disease) and other genetic diseases can affect the body’s ability to use copper."
 	},
 	{
 		"number": 30,
@@ -3418,7 +3447,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "12"
+		"group": "12",
+		"desc": "A silvery-white metal with a blue tinge, and tarnishes in air. Zinc is essential for all living things, forming the active site in over 20 metallo-enzymes. The average human body contains about 2.5 grams and takes in about 15 milligrams per day."
 	},
 	{
 		"number": 31,
@@ -3560,7 +3590,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 28.9,
-		"group": "13"
+		"group": "13",
+		"desc": "Gallium is a soft, silvery-white metal, similar to aluminium. Gallium arsenide has a similar structure to silicon and is a useful silicon substitute for the electronics industry. Gallium has no known biological role, and is non-toxic."
 	},
 	{
 		"number": 32,
@@ -3691,7 +3722,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 119,
-		"group": "14"
+		"group": "14",
+		"desc": "A silvery-white semi-metal, and is brittle. Germanium oxide has a high index of refraction and dispersion, making it suitable for use in wide-angle camera lenses and objective lenses for microscopes, which is now the major use for this element."
 	},
 	{
 		"number": 33,
@@ -3799,7 +3831,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 78,
-		"group": "15"
+		"group": "15",
+		"desc": "Arsenic is a semi-metal. In its metallic form it is bright, silver-grey and brittle. Arsenic is a well-known poison. Arsenic compounds are sometimes used as rat poisons and insecticides but their use is strictly controlled. Some scientists think that arsenic may be an essential element in our diet in very, very low doses. "
 	},
 	{
 		"number": 34,
@@ -3943,7 +3976,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 195,
-		"group": "16"
+		"group": "16",
+		"desc": "A semi-metal that can exist in two forms: as a silvery metal or as a red powder. The biggest use of selenium is as an additive to glass. Some selenium compounds decolourise glass, while others give a deep red colour. Selenium is an essential trace element for some species, including humans. Our bodies contain about 14 milligrams, and every cell in a human body contains more than a million selenium atoms."
 	},
 	{
 		"number": 35,
@@ -4037,7 +4071,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 324.6,
-		"group": "17"
+		"group": "17",
+		"desc": "Bromine is a deep-red, oily liquid with a sharp smell, and is toxic. Bromine compounds can be used as flame retardants. They are added to furniture foam, plastic casings for electronics and textiles to make them less flammable. Bromine compounds can be used as flame retardants, and are added to furniture foam, plastic casings for electronics, and textiles to make them less flammable."
 	},
 	{
 		"number": 36,
@@ -4179,7 +4214,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "18"
+		"group": "18",
+		"desc": "Krypton is a gas with no colour or smell. It does not react with anything except fluorine gas. Krypton is used commercially as a filling gas for energy-saving fluorescent lights, and used in some flash lamps used for high-speed photography. "
 	},
 	{
 		"number": 37,
@@ -4299,7 +4335,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 46.9,
-		"group": "1"
+		"group": "1",
+		"desc": "A soft metal that ignites in the air and reacts violently with water. Rubidium nitrate is sometimes used in fireworks to give them a purple colour. Rubidium has no known biological role and is non-toxic. However, because of its chemical similarity to potassium we absorb it from our food, and the average person has stores of about half a gram."
 	},
 	{
 		"number": 38,
@@ -4444,7 +4481,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 5.03,
-		"group": "2"
+		"group": "2",
+		"desc": "A soft, silvery metal that burns in air and reacts with water. Strontium is best known for the reds its salts give to fireworks and flares. Modern ‘glow-in-the-dark’ paints and plastics contain strontium aluminate. They absorb light during the day and release it slowly for hours afterwards."
 	},
 	{
 		"number": 39,
@@ -4564,7 +4602,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 29.6,
-		"group": "3"
+		"group": "3",
+		"desc": "A soft, silvery metal.  Yttrium-aluminium garnet is used in lasers that can cut through metals, also in white LED lights. Yttrium has no known biological role, and Its soluble salts are mildly toxic."
 	},
 	{
 		"number": 40,
@@ -4702,7 +4741,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 41.1,
-		"group": "4"
+		"group": "4",
+		"desc": "A hard, silvery metal that is very resistant to corrosion. Zirconium does not absorb neutrons, making it an ideal material for use in nuclear power stations."
 	},
 	{
 		"number": 41,
@@ -4862,7 +4902,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 86.1,
-		"group": "5"
+		"group": "5",
+		"desc": "A silvery metal that is very resistant to corrosion due to a layer of oxide on its surface. Niobium is used in alloys including stainless steel."
 	},
 	{
 		"number": 42,
@@ -5005,7 +5046,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 71.9,
-		"group": "6"
+		"group": "6",
+		"desc": "A shiny, silvery metal. Molybdenum has a very high melting point so it is produced and sold as a grey powder. Many molybdenum items are formed by compressing the powder at a very high pressure."
 	},
 	{
 		"number": 43,
@@ -5137,7 +5179,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 53,
-		"group": "7"
+		"group": "7",
+		"desc": "A radioactive, silvery metal that does not occur naturally. The gamma-ray emitting technetium-99m (metastable) is widely used for medical diagnostic studies. Several chemical forms are used to image different parts of the body"
 	},
 	{
 		"number": 44,
@@ -5286,7 +5329,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 101.3,
-		"group": "8"
+		"group": "8",
+		"desc": "A shiny, silvery metal. Most is used in the electronics industry for chip resistors and electrical contacts."
 	},
 	{
 		"number": 45,
@@ -5412,7 +5456,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 109.7,
-		"group": "9"
+		"group": "9",
+		"desc": "A hard, shiny, silvery metal. The major use of rhodium is in catalytic converters for cars (80%). It reduces nitrogen oxides in exhaust gases."
 	},
 	{
 		"number": 46,
@@ -5555,7 +5600,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 53.7,
-		"group": "10"
+		"group": "10",
+		"desc": "A shiny, silvery-white metal that resists corrosion. Most palladium is used in catalytic converters for cars. It is also used in jewellery and some dental fillings and crowns."
 	},
 	{
 		"number": 47,
@@ -5675,7 +5721,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 125.6,
-		"group": "11"
+		"group": "11",
+		"desc": "Silver is a relatively soft, shiny metal. It tarnishes slowly in air as sulfur compounds react with the surface forming black silver sulfide. Silver is used to make mirrors, as it is the best reflector of visible light known, although it does tarnish with time. It is also used in dental alloys, solder and brazing alloys, electrical contacts and batteries. Silver paints are used for making printed circuits."
 	},
 	{
 		"number": 48,
@@ -5838,7 +5885,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "12"
+		"group": "12",
+		"desc": "Cadmium is a silvery metal with a bluish tinge to its surface. 80% of cadmium currently produced is used in rechargeable nickel-cadmium batteries. "
 	},
 	{
 		"number": 49,
@@ -5937,7 +5985,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 28.9,
-		"group": "13"
+		"group": "13",
+		"desc": "A soft, silvery metal that is stable in air and water. Most indium is used to make indium tin oxide (ITO), which is an important part of touch screens, flatscreen TVs and solar panels."
 	},
 	{
 		"number": 50,
@@ -6090,7 +6139,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 107.3,
-		"group": "14"
+		"group": "14",
+		"desc": "A soft, pliable metal. Below 13°C it slowly changes to a powder form. Most window glass is made by floating molten glass on molten tin to produce a flat surface."
 	},
 	{
 		"number": 51,
@@ -6197,7 +6247,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 103.2,
-		"group": "15"
+		"group": "15",
+		"desc": "Antimony is a semi-metal. In its metallic form it is silvery, hard and brittle. Antimony is used in the electronics industry to make some semiconductor devices, such as infrared detectors and diodes."
 	},
 	{
 		"number": 52,
@@ -6354,7 +6405,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 190.2,
-		"group": "16"
+		"group": "16",
+		"desc": "A semi-metal usually obtained as a grey powder. Tellurium has been used to vulcanise rubber, to tint glass and ceramics, in solar cells, in rewritable CDs and DVDs"
 	},
 	{
 		"number": 53,
@@ -6484,7 +6536,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 295.2,
-		"group": "17"
+		"group": "17",
+		"desc": "A black, shiny, crystalline solid. When heated, iodine sublimes to form a purple vapour. Photography was the first commercial use for iodine after Louis Daguerre, in 1839, invented a technique for producing images on a piece of metal."
 	},
 	{
 		"number": 54,
@@ -6652,7 +6705,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "18"
+		"group": "18",
+		"desc": "A colourless, odourless gas. It is very unreactive. Xenon is used in certain specialised light sources. It produces a beautiful blue glow when excited by an electrical discharge."
 	},
 	{
 		"number": 55,
@@ -6765,7 +6819,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 45.5,
-		"group": "1"
+		"group": "1",
+		"desc": "Caesium is a soft, gold-coloured metal that is quickly attacked by air and reacts explosively in water. The most common use for caesium compounds is as a drilling fluid."
 	},
 	{
 		"number": 56,
@@ -6901,7 +6956,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 13.95,
-		"group": "2"
+		"group": "2",
+		"desc": "Barium is a soft, silvery metal that rapidly tarnishes in air and reacts with water. All barium compounds are toxic; however, barium sulfate is insoluble and so can be safely swallowed."
 	},
 	{
 		"number": 57,
@@ -7007,7 +7063,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 48,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "A soft, silvery-white metal. It rapidly tarnishes in air and burns easily when ignited. Lanthanum metal has no commercial uses."
 	},
 	{
 		"number": 58,
@@ -7148,7 +7205,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Cerium is a grey metal. It is little used because it tarnishes easily, reacts with water and burns when heated. The best-known use for this alloy is in ‘flints’ for cigarette lighters. This is because cerium will make sparks when struck."
 	},
 	{
 		"number": 59,
@@ -7254,7 +7312,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "A soft, silvery metal. Praseodymium is used in a variety of alloys. The high-strength alloy it forms with magnesium is used in aircraft engines."
 	},
 	{
 		"number": 60,
@@ -7384,7 +7443,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Neodymium is a common earth metal that, along with praseodymium (Pr), was extracted from the mixture didymium; all bear the suffix “dym”, meaning “twin”."
 	},
 	{
 		"number": 61,
@@ -7491,7 +7551,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Promethium is a highly radioactive and apparently-dangerous element that is usually sourced from uranium."
 	},
 	{
 		"number": 62,
@@ -7649,7 +7710,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Named tangentially after a Russian mining engineer, samarium has applications in the production of specialized magnets and (when radioactive) the treatment of several cancers."
 	},
 	{
 		"number": 63,
@@ -7776,7 +7838,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Europium is among the other especially-abundant elements isolated from common earth minerals, but is notable for being comparatively non-toxic."
 	},
 	{
 		"number": 64,
@@ -7919,7 +7982,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Gadolinium is a toxic earth metal, significant for decreasing the oxidation rates of some other metals when present in the same minerals."
 	},
 	{
 		"number": 65,
@@ -8025,7 +8089,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Terbium shares its namesake with Yttrium, and most of its practical applications lie in the technology and computing sector."
 	},
 	{
 		"number": 66,
@@ -8160,7 +8225,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Dysprosium, interestingly, is notable for having very few applications that aren’t already shared by other, easier-to-obtain elements."
 	},
 	{
 		"number": 67,
@@ -8280,7 +8346,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Holmium has the highest magnetic permeability--or ability to form a magnetic field around itself--of any thus-discovered element."
 	},
 	{
 		"number": 68,
@@ -8437,7 +8504,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Erbium is most recognized for certain ion ranges which magnify light and amplify lasers."
 	},
 	{
 		"number": 69,
@@ -8557,7 +8625,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Thulium, like other elements in its series, is almost always found in common minerals, and never in pure form."
 	},
 	{
 		"number": 70,
@@ -8713,7 +8782,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Ytterbium, the fourth element named after Ytterby, is notable for powering the most stable atomic clock as of 2013."
 	},
 	{
 		"number": 71,
@@ -8826,7 +8896,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 50,
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Lutetium’s discovery in 1907, alongside Ytterbium, was contested by three western scientists, with the credit being assigned to Frenchman Georges Urbain."
 	},
 	{
 		"number": 72,
@@ -8976,7 +9047,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "4"
+		"group": "4",
+		"desc": "Hafnium is a transition metal which lacks many practical applications, because the more-abundant zirconium (Zr) often shares utility."
 	},
 	{
 		"number": 73,
@@ -9108,7 +9180,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 31,
-		"group": "5"
+		"group": "5",
+		"desc": "Tantalum is used in powdered form in the production of computer parts, and is found in “coltan” ore, abundant in conflict zones in central Africa."
 	},
 	{
 		"number": 74,
@@ -9237,7 +9310,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 78.6,
-		"group": "6"
+		"group": "6",
+		"desc": "Sometimes called wolfram, tungsten is abundant in the ore wolframite. Portugal is its main producer in Europe, and this made it a center of political intrigue during the Second World War."
 	},
 	{
 		"number": 75,
@@ -9338,7 +9412,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 14.5,
-		"group": "7"
+		"group": "7",
+		"desc": "Rhenium is among the rarest elements occurring naturally in the Earth’s crust, at approx. 1 parts per billion (ppb)."
 	},
 	{
 		"number": 76,
@@ -9493,7 +9568,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 106.1,
-		"group": "8"
+		"group": "8",
+		"desc": "Osmium is the densest stable element, roughly twice as dense as lead (Pb)."
 	},
 	{
 		"number": 77,
@@ -9657,7 +9733,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 151,
-		"group": "9"
+		"group": "9",
+		"desc": "Iridium is notable for being the most corrosion-resistant metal, untarnished at even 3000 degrees Celsius (3632 degrees Fahrenheit)."
 	},
 	{
 		"number": 78,
@@ -9785,7 +9862,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 205.3,
-		"group": "10"
+		"group": "10",
+		"desc": "Platinum is the namesake of the “platinum group,” also including osmium (Os) and and iridium (Ir)."
 	},
 	{
 		"number": 79,
@@ -9903,7 +9981,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 222.8,
-		"group": "11"
+		"group": "11",
+		"desc": "Gold is one of the elements most widely recognized for its value, for its rarity, ease of shaping and corrosion resistance."
 	},
 	{
 		"number": 80,
@@ -10059,7 +10138,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "12"
+		"group": "12",
+		"desc": "Mercury is the only metallic element that is in liquid form under standard conditions (0 degrees Celsius and normal pressure)."
 	},
 	{
 		"number": 81,
@@ -10164,7 +10244,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 19.2,
-		"group": "13"
+		"group": "13",
+		"desc": "Thallium is highly toxic; when first discovered, it was used for pest control and insecticides before being phased out amid safety concerns."
 	},
 	{
 		"number": 82,
@@ -10295,7 +10376,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 35.1,
-		"group": "14"
+		"group": "14",
+		"desc": "Pencils were never made from lead. You’ve been mis-lead."
 	},
 	{
 		"number": 83,
@@ -10417,7 +10499,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 91.2,
-		"group": "15"
+		"group": "15",
+		"desc": "Bismuth is primarily used in pharmaceuticals, and is part of the mixture forming the active ingredient for Pepto-Bismol."
 	},
 	{
 		"number": 84,
@@ -10520,7 +10603,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 183.3,
-		"group": "16"
+		"group": "16",
+		"desc": "Polonium was identified by the Curies due to its especially high radioactivity. All of its practical applications are rooted in this radioactivity."
 	},
 	{
 		"number": 85,
@@ -10622,7 +10706,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 270.1,
-		"group": "17"
+		"group": "17",
+		"desc": "Astatine is the rarest naturally-occurring element, and is so radioactive that it cannot be obtained in macroscopic samples."
 	},
 	{
 		"number": 86,
@@ -10731,7 +10816,8 @@
 		"proposed_formal_name": "",
 		"alternative_names": "",
 		"electron_affinity": 0,
-		"group": "18"
+		"group": "18",
+		"desc": "Radon is a radioactive noble gas which forms an especially significant hazard due to it being otherwise colorless, odorless and tasteless."
 	},
 	{
 		"number": 87,
@@ -10832,7 +10918,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "1"
+		"group": "1",
+		"desc": "With a half-life of less than half an hour, francium is among the most unstable elements that occur naturally."
 	},
 	{
 		"number": 88,
@@ -10949,7 +11036,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "2"
+		"group": "2",
+		"desc": "The traditional unit of measurement for radioactivity, the curie, is based off of a common isotope of radium."
 	},
 	{
 		"number": 89,
@@ -11056,7 +11144,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Actinium lacks industrial utility because of its rarity, its high price, and the danger posed by its radioactivity."
 	},
 	{
 		"number": 90,
@@ -11186,7 +11275,8 @@
 		"molar_volume": "",
 		"proposed_formal_name": "",
 		"alternative_names": "",
-		"group": "n/a"
+		"group": "n/a",
+		"desc": "Thorium’s first practical use was as a fuel for incandescent gas mantles in 1885.\n"
 	},
 	{
 		"number": 91,
@@ -12775,7 +12865,7 @@
 		"electron_configuration": "[Rn] 5f14 6d2 7s2[1][2]",
 		"atomic_weight": "(267)",
 		"atomic_radius": "150 pm",
-		"covalent_radius": "150 pm",
+		"covalent_radius": "",
 		"ionization_energies": [
 			"579.9 kJ/mol",
 			"1389.4 kJ/mol",
@@ -12793,8 +12883,7 @@
 			"",
 			""
 		],
-		"group": "4",
-		"covalent_radius": ""
+		"group": "4"
 	},
 	{
 		"number": 105,
