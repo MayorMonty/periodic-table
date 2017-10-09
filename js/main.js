@@ -37,7 +37,6 @@ function makeDialog(number) {
         substitute(ionization, data.ionization_energies);
         substitute(affinity, data.electron_affinity);
         substitute(electronegativity, data.electronegativity);
-        console.log(data.desc);
         substitute(window.desc, data.desc);
 
         var isotopes = access(data, "iso");
