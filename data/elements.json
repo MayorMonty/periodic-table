@@ -11148,6 +11148,63 @@
 		"desc": "Actinium lacks industrial utility because of its rarity, its high price, and the danger posed by its radioactivity."
 	},
 	{
+		"number": 90,
+		"atomic_number": 90,
+		"name": "Thorium",
+		"symbol": "Th",
+		"iso": [
+			{
+				"isotope": "261Rf",
+				"abundance": " syn",
+				"halfLife": " 70 s",
+				"decayEnergy": " 257No",
+				"decayProduct": " <15% ε"
+			},
+			{
+				"isotope": " 263Rf",
+				"abundance": " syn",
+				"halfLife": " 15 min",
+				"decayEnergy": " ",
+				"decayProduct": " ~30% α"
+			},
+			{
+				"isotope": " 265Rf",
+				"abundance": " syn",
+				"halfLife": " 1.0 min",
+				"decayEnergy": " "
+			},
+			{
+				"isotope": " 266Rf",
+				"abundance": " syn",
+				"halfLife": " 23 s?",
+				"decayEnergy": " "
+			},
+			{
+				"isotope": " 267Rf",
+				"abundance": " syn",
+				"halfLife": " 1.3 h",
+				"decayEnergy": "No Data"
+			}
+		],
+		"element_category": "actinide",
+		"period": 7,
+		"group_block": "group 7, f-block",
+		"electron_configuration": "[Rn] 6d2 7s2",
+		"atomic_weight": "232.0377",
+		"atomic_radius": "206 pm",
+		"covalent_radius": "206 pm",
+		"ionization_energies": [
+			"587 kJ/mol",
+			"1110 kJ/mol",
+			"1930 kJ/mol"
+		],
+		"melting_point": "",
+		"boiling_point": "",
+		"electronegativity": 1.3,
+		"group": "4",
+		"desc": "Thorium metal is silvery and tarnishes black when exposed to air. It is mainly used in electronics, but can be used for power generation"
+	},
+	{
 		"number": 91,
 		"name": "Protactinium",
 		"symbol": "Pa",
@@ -12705,6 +12762,7 @@
 	},
 	{
 		"number": 104,
+		"atomic_number": 104,
 		"name": "Rutherfordium",
 		"symbol": "Rf",
 		"iso": [
@@ -12803,7 +12861,7 @@
 			"2378.4 kJ/mol",
 			""
 		],
-		"covalent_radius": "149 pm pm",
+		"covalent_radius": "149 pm",
 		"van_der_waals_radius": "",
 		"crystal_structure": "body-centered cubic (bcc) (predicted)",
 		"speed_of_sound": "",
