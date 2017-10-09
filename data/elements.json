@@ -654,7 +654,7 @@
 		"oxidation_states": "5, 4, 3, 2, 1, ?1, ?2, ?3 (a strongly acidic oxide)",
 		"electronegativity": 3.04,
 		"ionization_energies": [
-			""
+			"1400 kJ/mol"
 		],
 		"covalent_radius": "71 pm",
 		"van_der_waals_radius": "155 pm",
@@ -1725,7 +1725,7 @@
 		"oxidation_states": "7, 6, 5, 4, 3, 2, 1, ?1 (a strongly acidic oxide)",
 		"electronegativity": 3.16,
 		"ionization_energies": [
-			""
+			"1251.2 kJ/mol"
 		],
 		"covalent_radius": "102 pm",
 		"van_der_waals_radius": "175 pm",
@@ -4009,7 +4009,7 @@
 		"oxidation_states": "7, 5, 4, 3, 1, ?1 (a strongly acidic oxide)",
 		"electronegativity": 2.96,
 		"ionization_energies": [
-			""
+			"1139.9 kJ/mol"
 		],
 		"covalent_radius": "120 pm",
 		"van_der_waals_radius": "185 pm",
@@ -6438,7 +6438,7 @@
 		"oxidation_states": "7, 6, 5, 4, 3, 1, ?1 (a strongly acidic oxide)",
 		"electronegativity": 2.66,
 		"ionization_energies": [
-			""
+			"1008.4 kJ/mol"
 		],
 		"covalent_radius": "139 pm",
 		"van_der_waals_radius": "198 pm",
@@ -7096,7 +7096,7 @@
 		"oxidation_states": "4, 3, 2, 1 (a mildly basic oxide)",
 		"electronegativity": 1.12,
 		"ionization_energies": [
-			""
+			"45.5 kJ/mol"
 		],
 		"covalent_radius": "204 pm",
 		"van_der_waals_radius": "",

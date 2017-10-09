@@ -22,6 +22,7 @@ window.addEventListener("load", function() {
     window.ionization = document.querySelectorAll(".element-data-ionization");
     window.affinity = document.querySelectorAll(".element-data-affinity");
     window.electronegativity = document.querySelectorAll(".element-data-electronegativity");
+
 });
 
 
@@ -149,6 +150,9 @@ function colorBy(trend) {
 
 
     }
+    [window.key_category, window.key_radius, key_electronegativity, key_ionization, key_affinity].map( a => a.classList.remove("active") );
+    window[`key_${trend}`].classList.add("active");
+
 }
 
 fetch("data/elements.json")

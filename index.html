@@ -4,9 +4,8 @@ layout: default
 <nav>
   <div class="nav-wrapper">
     <ul class="right hide-on-med-and-down">
-      <li><a><i class="material-icons left">search</i>Search</a></li>
       <li><a data-activates="colorbytrend" class="dropdown-button"><i class="material-icons left">highlight</i>Color by <strong id="color-filter">Element Category</strong></a></li>
-      <li><a><i class="material-icons left">info</i>More Information</a></li>
+      <li><a href="/periodic-table/about/"><i class="material-icons left">info</i>More Information</a></li>
     </ul>
   </div>
 </nav>
@@ -21,6 +20,110 @@ layout: default
         
 
 <div class="periodic-table">
+  <div class="example-element">
+    <span class="number">Atomic Number</span>
+    <span class="symbol">Ex</span>
+    <span class="name">Element Name</span>
+    <span class="atomic">Average Atomic Weight</span>
+  </div>
+  <div class="key">
+    <div id="key_category" class="active">
+      <h5>Element Categories</h5>
+      <div class="example-element color-block noble gas">Noble Gas</div>
+      <div class="example-element color-block nonmetal">Non-Metal</div>
+      <div class="example-element color-block metalloid">Metalloid</div>
+      <div class="example-element color-block post-transition">Post-Transition</div>
+      <div class="example-element color-block transition">Transition</div>
+      <div class="example-element color-block lanthanide">Lanthanide</div>
+      <div class="example-element color-block actinide">Actinide</div>
+      <div class="example-element color-block alkali">Alkali Metals</div>
+      <div class="example-element color-block alkaline">Alkaline Earth Metal</div>
+    </div>
+    <div id="key_radius">
+        <h5>Atomic Radius</h5>
+        <span>
+          <div class="element period-1 group-18 (noble gases) s-block noble gas" data-element="2" data-electronegativity="" data-affinity="0" data-radius="28" data-ionization="2372.3 kJ/mol5250.5 kJ/mol" style="background-color: rgb(30, 110, 115);">
+            <span class="number">2</span>
+            <span class="symbol">He</span>
+            <span class="name">Helium</span>
+            <span class="atomic">4.0</span>
+          </div>
+          <span>Smallest</span>
+        </span>
+        <span>
+          <div class="element period-7 group-1 (alkali metals) s-block alkali metal" data-element="87" data-electronegativity="0.7" data-affinity="" data-radius="260" data-ionization="393 kJ/mol" style="background-color: rgb(255, 110, 115);">
+            <span class="number">87</span>
+            <span class="symbol">Fr</span>
+            <span class="name">Francium</span>
+            <span class="atomic">223.0</span>
+          </div>
+          <span>Largest</span>
+        </span>
+    </div>
+    <div id="key_electronegativity">
+        <h5>Electronegativity</h5>
+        <span>
+            <div class="element period-7 group-1 (alkali metals) s-block alkali metal" data-element="87" data-electronegativity="0.7" data-affinity="" data-radius="260" data-ionization="393 kJ/mol" style="background-color: rgb(255, 110, 115);">
+              <span class="number">87</span>
+              <span class="symbol">Fr</span>
+              <span class="name">Francium</span>
+              <span class="atomic">223.0</span>
+            </div>
+            <span>Smallest</span>
+          </span>
+          <span>
+              <div class="element period-2 group-17 (halogens) p-block diatomic nonmetal" data-element="9" data-electronegativity="3.98" data-affinity="328" data-radius="64" data-ionization="1681 kJ/mol3374 kJ/mol6147 kJ/mol" style="background-color: rgb(237, 110, 115);">
+                <span class="number">9</span>
+                <span class="symbol">F</span>
+                <span class="name">Fluorine</span>
+                <span class="atomic">19.0</span>
+              </div>
+            <span>Largest</span>
+          </span>
+    </div>
+    <div id="key_ionization">
+        <h5>Ionization Energy</h5>
+        <span>
+            <div class="element period-6 group-1 (alkali metals) s-block alkali metal" data-element="55" data-electronegativity="0.79" data-affinity="45.5" data-radius="244" data-ionization="375.7 kJ/mol2234.3 kJ/mol3400 kJ/mol" style="background-color: rgb(45, 110, 115);">
+              <span class="number">55</span>
+              <span class="symbol">Cs</span>
+              <span class="name">Cesium</span>
+              <span class="atomic">132.91</span>
+            </div>
+            <span>Smallest</span>
+          </span>
+          <span>
+              <div class="element period-1 group-18 (noble gases) s-block noble gas" data-element="2" data-electronegativity="" data-affinity="0" data-radius="28" data-ionization="2372.3 kJ/mol5250.5 kJ/mol" style="background-color: rgb(255, 110, 115);">
+                <span class="number">2</span>
+                <span class="symbol">He</span>
+                <span class="name">Helium</span>
+                <span class="atomic">4.0</span>
+              </div>
+            <span>Largest</span>
+          </span>
+    </div>
+    <div id="key_affinity">
+        <h5>Electron Affinity</h5>
+        <span>
+            <div class="element period-6 group-2 (alkaline earth metals) s-block alkaline earth metals" data-element="56" data-electronegativity="0.89" data-affinity="13.95" data-radius="215" data-ionization="502.9 kJ/mol965.2 kJ/mol3600 kJ/mol" style="background-color: rgb(10, 110, 115);">
+              <span class="number">56</span>
+              <span class="symbol">Ba</span>
+              <span class="name">Barium</span>
+              <span class="atomic">137.33</span>
+            </div>
+            <span>Smallest</span>
+          </span>
+          <span>
+            <div class="element period-2 group-17 (halogens) p-block diatomic nonmetal" data-element="9" data-electronegativity="3.98" data-affinity="328" data-radius="64" data-ionization="1681 kJ/mol3374 kJ/mol6147 kJ/mol" style="background-color: rgb(237, 110, 115);">
+              <span class="number">9</span>
+              <span class="symbol">F</span>
+              <span class="name">Fluorine</span>
+              <span class="atomic">19.0</span>
+            </div>
+            <span>Largest</span>
+          </span>
+    </div>
+  </div>
   {% for element in site.data.elements %}
   <div 
       class="element period-{{element.period}} group-{{ element.group_block | replace: "group ", '' | replace: ',', '' }} {{ element.element_category | replace: ',','' }}" 
@@ -36,7 +139,7 @@ layout: default
   </div>
   {% endfor %}
   <div class="spacer first">
-    51—74
+    57—71
   </div>
   <div class="spacer second">
     89—103

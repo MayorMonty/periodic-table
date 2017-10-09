@@ -38,7 +38,7 @@ main {
     }
 }
 
-.element {
+.element, .example-element {
     text-align: center;
     position: relative;
     margin: 0 !important;
@@ -91,9 +91,65 @@ main {
     }
 }
 
+.example-element {
+    grid-row: 1 / 3;
+    grid-column: 4 / 6;   
+    background: #FFF;
+    * {
+       margin: 18px 0;
+    }
+    .symbol {
+        margin-top: 46px;
+    }
+}
+
+.key {
+    grid-row: 1 / 4;
+    grid-column: 6 / 13;
+    background: #FFF;
+    h5 {
+        text-align: center;
+    }
+    .element {
+        width: 78px;
+        margin: 16px;
+
+    }
+    > * {
+        display: none;
+        height: 100%;
+        &.active {
+            display: flex;
+        }
+        &#key_category.active {
+            display: block;
+        }
+    }
+    > *:not(#key_category) {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        h5 {
+            width: 100%;
+        }
+        span {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
 nav {
     position: fixed;
+    top: 0;
     z-index: 99;
+}
+
+.container.about {
+    margin-top: 15vh;
 }
 
 .spacer {
